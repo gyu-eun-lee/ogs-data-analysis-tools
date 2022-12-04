@@ -1,4 +1,5 @@
 # ogs-data-analysis-tools
+A collection of tools for fetching and analyzing user data from OGS
 
 This repository houses various small utilities (mostly consisting of Python notebooks) for fetching and analyzing user data from the [Online Go Server (OGS)](https://online-go.com/).
 Each utility is housed in its own top-level folder.
