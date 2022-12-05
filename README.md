@@ -8,9 +8,10 @@ At this time the scope of each utility here is too small to warrant a full separ
 
 ## Description of individual utilities
 
-* personal_stats:
-  * Fetches and stores all of your personal OGS games data.
-  * Creates a cleaned version of your OGS games data for use in future statistical/data science applications.
-  * Creates dump of all of your OGS games in SGF format.
-  * Similar in spirit to the [Got Stats?](https://avavt.github.io/gotstats/#/) tool, but aimed at providing the raw data to the user for use in their own analysis projects.
-  * Future work: data analysis and visualization tools using above datasets/game dumps.
+* player_data_tools:
+  * Tools for dumping and analyzing individual player data.
+    * Dump datasets of all of a player's game information (ranks, outcomes, etc.)
+    * Basic cleaning of datasets for use in subsequent statistics/data analysis applications
+    * Dump player's games in JSON and SGF formats
+      * Games can be pre-filtered using raw and cleaned datasets
+    * Future work: data analysis and visualization tools using above datasets/game dumps.
