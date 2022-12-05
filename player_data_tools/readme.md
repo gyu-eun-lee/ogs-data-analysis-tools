@@ -11,7 +11,7 @@
 * An OGS account. You can sign up for an account [here](https://online-go.com/).
 
 ### **(Required: do this first)** OAuth token
-1. Create an OGS OAuth 2.0 application. You can create one [here](https://online-go.com/oauth2/applications/). Copy the client id and client secret fields before saving.
+1. Create an OGS OAuth 2.0 application. You can create one [here](https://online-go.com/oauth2/applications/). Copy the client id and client secret fields before saving. For the settings you can set Client type - public, Authorization Grant Type - password.
 2. Replace the corresponding terms in the file `keys.txt` with your client id, client secret, OGS username, and OGS password. Keep the double quotes. These will be needed to create an OAuth key which is needed to make requests to the OGS API.
     
 ### Fetching and cleaning user games data
