@@ -1,7 +1,7 @@
 # OGS Personal Stats Utilities
-* Fetches and stores all of your personal OGS games data.
-* Creates a cleaned version of your OGS games data for use in future statistical/data science applications.
-* Creates dump of all of your OGS games in SGF format.
+* Fetches and stores OGS games data for a given player.
+* Creates a cleaned version of fetched games data for use in future statistical/data science applications.
+* Creates dump of player's games in SGF format. List of games can be pre-filtered.
 * Similar in spirit to the [Got Stats?](https://avavt.github.io/gotstats/#/) tool, but aimed at providing the raw data to the user for use in their own analysis projects.
 
 ## Usage
@@ -29,5 +29,21 @@
 3. Fetching games:
     1. Open `games_dump.ipynb`.
     2. Modify the player ID to the same player ID from step 1.
+    3. (Optional) Choose an alternative database of games to fetch. Default databases are made in steps 1 and 2.
     3. Run all cells, and wait for the API requests to conclude. This may take several minutes.
     4. Confirm creation of output files.
+
+### Analyzing single games
+
+**Dependencies:**
+* [KataGo](https://github.com/lightvector/KataGo)
+* [analyze-sgf](https://github.com/9beach/analyze-sgf)
+
+1. Producing analysis:
+    1. Open `game_analysis.ipynb`.
+    2. Modify id information to point to correct SGF.
+    3. Run all cells. This step will usually take a long time.
+    4. Confirm creation of output files:
+        * an SGF with analysis added named `<filename>-analyzed.sgf`.
+        * a JSON containing the analysis data named `<filename>.json`.
+        * a JSON containing a cleaned version of the analysis data named `<filename>_clean.json`.
