@@ -3,6 +3,7 @@
 * Creates a cleaned version of fetched games data for use in future statistical/data science applications.
 * Creates dump of player's games in SGF format. List of games can be pre-filtered.
 * Similar in spirit to the [Got Stats?](https://avavt.github.io/gotstats/#/) tool, but aimed at providing the raw data to the user for use in their own analysis projects.
+* Some pre-analyzed professional games (SGFs, JSONs, cleaned JSONs) are provided in the `./output/pro/` directory if you want to play around with datasets immediately. Gratitude goes to to [Baduk Movies](https://badukmovies.com/pro_games) for providing a database of pro games for the public domain.
 
 ## Usage
 

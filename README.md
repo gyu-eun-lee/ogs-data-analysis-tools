@@ -14,7 +14,8 @@ At this time the scope of each utility here is too small to warrant a full separ
     * Basic cleaning of datasets for use in subsequent statistics/data analysis applications
     * Dump player's games in JSON and SGF formats
         * Games can be pre-filtered using raw and cleaned datasets
-    * Use KataGo to analyze full games
+    * Use KataGo to analyze full games, including multiple games at once
         * Also produces clean Pandas-ready JSON files with the analysis data
+        * A few pre-analyzed professional games are provided. 2000 visits per root.
     * Analytics using above tools
         * Sharpness coefficient: Measure the sharpness of each move

@@ -1,0 +1,3490 @@
+(;EV[7th 国手山脈世界proSaikyo Final]PB[Byun Sangil]BR[9p]PW[Shin Jinseo]WR[9p]KM[6.5]RE[B+R]DT[2021-12-12]CA[UTF-8]C[# Analyze-SGF Report
+
+7th 国手山脈世界proSaikyo Final, Komi 6.5, B+R, 2021-12-12
+
+Byun Sangil (Black)
+* KataGo top choices (60.92%, 53/87)
+* Less than 2% win rate drops (88.51%, 77/87)
+* Less than 5% win rate drops (97.70%, 85/87)
+* More than 5% win rate drops (2.30%, 2/87): #69 ⇣6.66%, #117 ⇣6.38%
+* Top 10 win rate drops: #69 ⇣6.66%, #117 ⇣6.38%, #75 ⇣4.85%, #53 ⇣4.10%, #105 ⇣3.81%, #95 ⇣3.58%, #47 ⇣2.45%, #145 ⇣2.16%, #109 ⇣2.10%, #67 ⇣2.03%
+* Top 10 score drops: #145 ⇣6.49, #117 ⇣2.33, #149 ⇣1.40, #101 ⇣1.34, #105 ⇣1.21, #69 ⇣0.92, #75 ⇣0.79, #165 ⇣0.77, #95 ⇣0.75, #53 ⇣0.57
+
+Shin Jinseo (White)
+* KataGo top choices (48.84%, 42/86)
+* Less than 2% win rate drops (82.56%, 71/86)
+* Less than 5% win rate drops (95.35%, 82/86)
+* More than 5% win rate drops (4.65%, 4/86): #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+* Top 10 win rate drops: #70 ⇣16.52%, #114 ⇣11.99%, #74 ⇣5.15%, #48 ⇣5.01%, #66 ⇣4.58%, #122 ⇣4.12%, #126 ⇣4.03%, #68 ⇣3.95%, #52 ⇣3.77%, #50 ⇣3.63%
+* Top 10 score drops: #114 ⇣5.87, #122 ⇣3.78, #152 ⇣3.55, #162 ⇣3.18, #70 ⇣2.34, #166 ⇣1.78, #124 ⇣1.74, #134 ⇣1.64, #168 ⇣1.43, #100 ⇣1.24
+
+Analyzed by KataGo Parallel Analysis Engine (2001 max visits).]
+;B[qd]C[Move 1
+
+* Win rate: B 55.66%
+* Score lead: B 0.19
+* Win rate drop: B ⇣0.66%
+* Score drop: B ⇣0.09
+* Visits: 2001
+* KataGo choice no. 6
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BQ4 Q16 D4 D16 C17 D17 C16 D15 C14 R3 Q3 R4 (B 56.36%, B 0.28, 1100 visits)
+2. BQ16 Q4 D16 D4 C3 D3 C4 D5 C6 R17 Q17 R16 (B 56.36%, B 0.28, 1100 visits)
+3. BD4 D16 Q4 Q16 R17 Q17 R16 Q15 R14 C3 D3 C4 (B 56.36%, B 0.28, 1100 visits)
+4. BD16 D4 Q16 Q4 R3 Q3 R4 Q5 R6 C17 D17 C16 (B 56.36%, B 0.28, 1100 visits)
+5. BR4 D4 Q16 D16 C17 C16 D17 E16 F17 P4 P3 O3 (B 55.58%, B 0.17, 438 visits)
+6. BR16 D16 Q4 D4 C3 C4 D3 E4 F3 P16 P17 O17 (B 55.58%, B 0.17, 438 visits)
+7. BC4 Q4 D16 Q16 R17 R16 Q17 P16 O17 E4 E3 F3 (B 55.58%, B 0.17, 438 visits)
+8. BC16 Q16 D4 Q4 R3 R4 Q3 P4 O3 E16 E17 F17 (B 55.58%, B 0.17, 438 visits)
+9. BD17 D4 Q16 Q4 R3 Q3 R4 Q5 R6 D15 C15 C14 (B 55.58%, B 0.17, 438 visits)
+10. BQ17 Q4 D16 D4 C3 D3 C4 D5 C6 Q15 R15 R14 (B 55.58%, B 0.17, 438 visits)
+]TE[1]SBKV[55.66]
+;W[qp]C[Move 2
+
+* Win rate: B 56.27%
+* Score lead: B 0.29
+* Win rate drop: W ⇣0.62%
+* Score drop: W ⇣0.10
+* Visits: 2001
+* KataGo choice no. 8
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WD16 Q4 D3 C17 C16 D17 E16 F17 P17 G18 R3 R4 Q3 P4 (B 55.42%, B 0.16, 528 visits)
+2. WQ4 D16 D4 C3 C4 D3 E4 F2 C17 D17 C16 C14 B14 C13 C15 (B 55.87%, B 0.21, 356 visits)
+3. WD4 D16 Q4 C3 C4 D3 E4 F2 C17 D17 C16 C14 B14 C13 C15 (B 55.83%, B 0.20, 325 visits)
+4. WD17 D4 Q4 C15 P17 E16 E17 F16 G17 Q15 C3 D3 C4 C6 (B 56.32%, B 0.30, 132 visits)
+5. WC4 D16 Q4 R3 Q3 R4 Q5 R6 Q6 R7 R5 S5 S6 S4 R8 (B 56.28%, B 0.30, 137 visits)
+6. WC16 D4 Q4 E17 D15 R3 Q3 R4 R6 R5 Q5 S6 (B 56.31%, B 0.28, 127 visits)
+7. WD3 D16 Q4 C5 E4 R3 R4 Q3 P4 O2 P17 (B 56.43%, B 0.31, 118 visits)
+8. WR4 D4 D16 P3 P17 Q5 R5 Q6 R7 C17 D17 (B 56.32%, B 0.29, 117 visits)
+9. WQ3 D16 D4 R5 P4 C3 C4 D3 E4 F2 C17 (B 56.51%, B 0.32, 106 visits)
+10. WR3 D16 D4 C3 D3 C4 (B 57.39%, B 0.41, 18 visits)
+]TE[1]SBKV[56.27]
+;B[dp]C[Move 3
+
+* Win rate: B 56.57%
+* Score lead: B 0.33
+* Win rate drop: B ⇣-0.30%
+* Score drop: B ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BD4 D16 P3 Q5 C17 D17 C16 C14 C15 D15 B14 P17 Q15 C3 C4 (B 56.58%, B 0.32, 428 visits)
+2. BD16 D4 C3 D3 C4 D5 B6 P4 O17 C17 C16 D17 E16 F18 C7 (B 56.09%, B 0.27, 321 visits)
+3. BP3 D4 D16 Q5 C3 D3 C4 D5 C6 M3 D6 E6 E7 (B 55.99%, B 0.27, 212 visits)
+4. BC4 D16 P3 Q5 F3 P17 Q15 M17 C17 (B 56.19%, B 0.25, 164 visits)
+5. BD3 D16 P3 C5 Q5 R5 Q6 R7 C17 D17 C16 C14 B14 (B 56.06%, B 0.23, 163 visits)
+6. BC16 D4 C3 D3 C4 D5 B6 E17 D15 P17 Q15 (B 55.78%, B 0.19, 129 visits)
+7. BP16 D16 D4 C3 C4 D3 F3 E3 E4 F2 P3 G3 F4 (B 55.49%, B 0.16, 90 visits)
+8. BD17 D4 P3 N4 P5 Q6 D3 C3 (B 55.21%, B 0.12, 85 visits)
+9. BO17 D4 D16 C17 D17 C16 D15 B14 C3 D3 C4 (B 55.27%, B 0.11, 72 visits)
+10. BO16 D16 D4 C3 C4 D3 F3 E3 E4 (B 55.34%, B 0.13, 60 visits)
+]TE[1]SBKV[56.57]
+;W[dd]C[Move 4
+
+* Win rate: B 56.56%
+* Score lead: B 0.32
+* Win rate drop: W ⇣-0.02%
+* Score drop: W ⇣-0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WD16 P3 Q5 C17 D17 C16 C14 C15 D15 B14 P17 Q14 C3 C4 D3 E4 (B 56.52%, B 0.32, 1089 visits)
+2. WD17 P3 C14 Q6 P17 Q4 Q15 R15 Q14 R13 (B 56.85%, B 0.38, 380 visits)
+3. WC16 E17 D15 P3 P17 Q5 R5 Q6 R7 H17 Q15 R15 Q14 R14 Q13 (B 57.09%, B 0.41, 361 visits)
+4. WC17 P3 Q6 P16 C3 C4 D3 F3 E3 E4 F2 (B 58.09%, B 0.50, 107 visits)
+]TE[1]SBKV[56.56]
+;B[oq]C[Move 5
+
+* Win rate: B 56.86%
+* Score lead: B 0.36
+* Win rate drop: B ⇣-0.30%
+* Score drop: B ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BP3 Q5 C17 D17 C16 C14 C15 D15 B14 P17 Q14 C3 C4 D3 E4 E3 (B 56.75%, B 0.35, 718 visits)
+2. BC17 C16 D17 E16 F18 P17 P3 Q15 R15 Q14 R13 C3 C4 D3 E3 (B 56.38%, B 0.31, 374 visits)
+3. BP4 P3 O3 Q3 O4 P17 Q15 R6 C17 C16 D17 E17 E18 F18 F17 E16 (B 56.05%, B 0.24, 237 visits)
+4. BO17 C3 C4 D3 F3 E3 E4 F2 P3 G3 F4 B3 C17 C16 D17 E16 (B 55.86%, B 0.21, 158 visits)
+5. BF17 P17 C14 F16 G16 F15 D17 C17 E17 C16 C12 (B 54.95%, B 0.12, 97 visits)
+6. BC14 P17 P3 Q15 R15 Q14 S13 F17 Q5 R5 Q6 (B 54.96%, B 0.13, 105 visits)
+7. BP16 C3 C4 D3 F3 E3 E4 F2 P3 G3 F4 H2 C17 C16 D17 E16 (B 55.74%, B 0.22, 110 visits)
+8. BO16 C3 C4 D3 F3 E3 E4 F2 P3 G3 F4 H2 C17 C16 D17 E16 (B 55.69%, B 0.21, 100 visits)
+]TE[1]SBKV[56.86]
+;W[oc]C[Move 6
+
+* Win rate: B 57.12%
+* Score lead: B 0.40
+* Win rate drop: W ⇣0.26%
+* Score drop: W ⇣0.04
+* Visits: 2001
+* KataGo choice no. 3
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WQ5 C17 D17 C16 C14 C15 D15 B14 P17 Q14 C3 D3 C4 C5 B5 B6 (B 56.50%, B 0.32, 405 visits)
+2. WQ6 O17 C3 C4 D3 F3 E3 E4 F2 C17 D17 C16 C14 C15 D15 B14 (B 56.81%, B 0.34, 298 visits)
+3. WP17 Q5 R5 Q6 Q15 R6 R15 C17 C16 D17 F17 F18 G18 E17 (B 57.23%, B 0.41, 299 visits)
+4. WP16 Q5 R5 Q6 R7 P17 O17 Q17 O16 C17 D17 C16 C14 C15 D15 B14 (B 57.04%, B 0.40, 267 visits)
+5. WC3 C4 D3 F3 F2 Q5 R5 Q6 R6 Q7 R7 G2 (B 57.17%, B 0.41, 192 visits)
+6. WQ3 P4 Q6 L4 P16 P17 O17 Q17 (B 58.13%, B 0.49, 50 visits)
+7. WC6 Q5 R5 Q6 R7 C17 C16 D17 E16 F18 F3 F4 G4 F5 E2 C3 (B 57.31%, B 0.44, 119 visits)
+8. WF3 Q5 R5 Q6 R7 H3 P16 P17 O17 Q17 O16 R14 C14 (B 57.89%, B 0.49, 53 visits)
+9. WN4 P5 Q6 C17 C16 D17 F17 F18 G18 E17 (B 57.81%, B 0.52, 62 visits)
+10. WF17 Q5 R5 Q6 R7 O17 C3 C4 D3 F3 E3 E4 (B 57.31%, B 0.40, 75 visits)
+]TE[1]SBKV[57.12]
+;B[po]C[Move 7
+
+* Win rate: B 57.11%
+* Score lead: B 0.39
+* Win rate drop: B ⇣0.01%
+* Score drop: B ⇣0.00
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BQ5 Q15 Q17 Q3 P2 R5 Q6 R6 Q7 R7 R15 (B 57.21%, B 0.41, 1303 visits)
+2. BQ15 Q5 C17 D17 C16 D15 C15 C14 B14 M17 C13 D14 C18 R12 (B 56.20%, B 0.29, 259 visits)
+3. BQ14 C3 C4 D3 F3 F2 Q5 R5 Q6 R6 Q7 R7 G2 (B 55.85%, B 0.24, 164 visits)
+4. BC17 Q15 R15 Q14 R14 Q13 Q5 D17 C16 (B 55.34%, B 0.23, 121 visits)
+]TE[1]SBKV[57.11]
+;W[qo]C[Move 8
+
+* Win rate: B 57.25%
+* Score lead: B 0.42
+* Win rate drop: W ⇣0.14%
+* Score drop: W ⇣0.02
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WQ15 Q17 P18 R15 Q14 R14 Q13 R5 R13 C17 C16 D17 F17 E17 E16 F18 (B 56.68%, B 0.34, 795 visits)
+2. WR5 Q6 S7 C17 D17 C16 D15 B14 Q15 R15 Q14 S13 K16 C6 (B 57.40%, B 0.43, 1062 visits)
+]TE[1]SBKV[57.25]
+;B[pn]C[Move 9
+
+* Win rate: B 57.50%
+* Score lead: B 0.44
+* Win rate drop: B ⇣-0.25%
+* Score drop: B ⇣-0.03
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BQ6 S7 C17 Q15 R15 Q14 R14 C16 D17 E16 F18 Q13 R13 C3 C4 D3 (B 57.25%, B 0.42, 1948 visits)
+]TE[1]SBKV[57.50]
+;W[qm]C[Move 10
+
+* Win rate: B 57.69%
+* Score lead: B 0.48
+* Win rate drop: W ⇣0.19%
+* Score drop: W ⇣0.03
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WS7 C17 Q15 R15 Q14 R14 D17 C16 D15 C14 Q13 B13 R13 Q18 (B 57.30%, B 0.42, 554 visits)
+2. WR7 C17 Q15 R15 Q14 R14 D17 C16 D15 B14 Q13 R13 K16 C6 J3 (B 58.01%, B 0.52, 499 visits)
+3. WR6 Q7 Q15 R7 Q3 Q2 R2 Q4 R3 S14 C3 C4 D3 F3 E3 E4 (B 57.32%, B 0.42, 516 visits)
+4. WQ15 R6 R15 C17 D17 C16 C14 B14 B13 C15 D14 D15 E15 E16 E18 F16 (B 57.37%, B 0.42, 415 visits)
+]TE[1]SBKV[57.69]
+;B[cc]C[Move 11
+
+* Win rate: B 57.76%
+* Score lead: B 0.49
+* Win rate drop: B ⇣-0.07%
+* Score drop: B ⇣-0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BC17 Q15 R15 Q14 R14 C16 D17 F17 F18 Q13 E16 E17 E18 G17 E15 B16 (B 57.87%, B 0.50, 1247 visits)
+2. BC14 Q15 R15 Q14 R14 Q13 F17 R13 Q18 F16 G16 F15 D17 C17 E17 C16 (B 56.26%, B 0.30, 155 visits)
+3. BQ15 C6 F3 C14 M17 O16 Q18 P14 (B 55.81%, B 0.26, 88 visits)
+]TE[1]SBKV[57.76]
+;W[cd]C[Move 12
+
+* Win rate: B 57.43%
+* Score lead: B 0.43
+* Win rate drop: W ⇣-0.33%
+* Score drop: W ⇣-0.06
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WC16 D17 E17 E18 F18 F17 E16 G18 D18 F19 C18 F3 Q15 R15 Q14 R14 (B 57.71%, B 0.47, 763 visits)
+2. WD17 C16 D15 B14 Q15 R15 Q14 R14 Q13 R13 C3 C4 D3 F3 F2 G2 (B 57.84%, B 0.50, 563 visits)
+3. WQ15 R15 Q14 R14 C16 D17 F17 F18 Q13 E16 E17 E18 G17 E15 B16 J17 (B 57.72%, B 0.49, 652 visits)
+]TE[1]SBKV[57.43]
+;B[dc]C[Move 13
+
+* Win rate: B 57.61%
+* Score lead: B 0.46
+* Win rate drop: B ⇣-0.18%
+* Score drop: B ⇣-0.03
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BD17 E17 E18 F18 F17 E16 G18 D18 F19 C18 F3 Q15 R15 Q14 R14 Q13 (B 57.43%, B 0.43, 1842 visits)
+2. BQ7 R8 D17 E17 E18 F18 F17 E16 G18 D18 F19 C18 F3 Q15 R15 Q14 (B 55.44%, B 0.21, 129 visits)
+]TE[1]SBKV[57.61]
+;W[fc]C[Move 14
+
+* Win rate: B 57.78%
+* Score lead: B 0.49
+* Win rate drop: W ⇣0.17%
+* Score drop: W ⇣0.03
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WE17 E18 F18 F17 E16 G18 D18 F19 C18 F3 Q15 R15 Q14 R14 Q13 R13 (B 57.40%, B 0.42, 853 visits)
+2. WF17 F18 Q15 R15 Q14 R14 Q13 E16 E17 E18 G17 E15 B16 J17 G18 B17 (B 57.72%, B 0.50, 607 visits)
+3. WE16 F18 Q15 R15 Q14 R14 Q13 R13 C3 C4 D3 F3 F2 G2 E3 F4 (B 58.17%, B 0.53, 445 visits)
+]TE[1]SBKV[57.78]
+;B[fb]C[Move 15
+
+* Win rate: B 57.96%
+* Score lead: B 0.51
+* Win rate drop: B ⇣-0.18%
+* Score drop: B ⇣-0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BF18 Q15 R15 Q14 R14 Q13 R13 G18 E17 F16 E16 E15 D15 B15 D14 E14 (B 57.85%, B 0.50, 1604 visits)
+2. BE17 E16 F18 Q15 Q17 P18 R15 Q14 R14 Q13 R13 B17 G17 F16 H18 C18 (B 56.18%, B 0.33, 242 visits)
+3. BQ7 R8 F18 Q15 R15 Q14 R14 G18 E17 F16 E16 E15 D15 B15 D14 E14 (B 56.08%, B 0.29, 132 visits)
+]TE[1]SBKV[57.96]
+;W[pe]C[Move 16
+
+* Win rate: B 57.53%
+* Score lead: B 0.47
+* Win rate drop: W ⇣-0.42%
+* Score drop: W ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WQ15 R15 Q14 R14 Q13 R13 G18 E17 F16 E16 E15 D15 B15 D14 E14 E13 (B 57.55%, B 0.46, 1094 visits)
+2. WG18 E17 F16 E16 E15 D15 B15 D14 E14 E13 F15 B17 D13 C14 C13 B14 (B 59.37%, B 0.67, 396 visits)
+3. WG17 G18 H17 E17 E16 F3 Q15 R15 Q14 R13 B5 C5 B4 C7 (B 59.27%, B 0.61, 267 visits)
+]TE[1]SBKV[57.53]
+;B[pc]C[Move 17
+
+* Win rate: B 56.79%
+* Score lead: B 0.40
+* Win rate drop: B ⇣0.75%
+* Score drop: B ⇣0.07
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BR15 Q14 S13 G17 E17 E16 G18 H17 F3 B5 C5 B4 C7 C3 (B 57.62%, B 0.47, 1239 visits)
+2. BQ17 Q18 P16 Q16 R17 O17 R14 Q14 R13 G18 E17 F16 E16 E15 D15 B15 (B 56.83%, B 0.40, 407 visits)
+3. BQ7 R8 R15 Q14 R14 Q13 G17 F16 H18 R13 Q18 C3 C4 D3 F3 F2 (B 56.82%, B 0.39, 198 visits)
+4. BE17 E16 Q17 Q18 P16 Q16 R17 O18 O17 P18 (B 55.81%, B 0.28, 69 visits)
+]TE[1]SBKV[56.79]
+;W[pb]C[Move 18
+
+* Win rate: B 56.47%
+* Score lead: B 0.36
+* Win rate drop: W ⇣-0.32%
+* Score drop: W ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WQ18 P16 Q16 R17 O17 R14 Q14 R13 Q13 R18 G18 E17 F16 E16 E15 D15 (B 56.31%, B 0.35, 518 visits)
+2. WG18 E17 F16 E16 E15 D15 B15 D14 E14 E13 G15 B17 D13 C14 C13 B14 (B 57.53%, B 0.48, 485 visits)
+3. WP18 R15 Q14 R14 Q13 R13 G18 E17 F16 E16 E15 D15 B15 D14 E14 E13 (B 56.44%, B 0.36, 325 visits)
+4. WR15 P18 O17 O18 E16 G18 Q7 N17 N16 M17 C3 C4 D3 E4 F2 C11 (B 57.82%, B 0.53, 199 visits)
+5. WB17 G17 F16 B18 R15 P18 O17 O18 N17 Q16 P15 Q7 R8 (B 57.99%, B 0.53, 125 visits)
+6. WC3 C4 D3 F3 F2 G2 E3 F4 E4 E5 D5 B5 D6 E6 E7 F5 (B 57.68%, B 0.53, 120 visits)
+7. WE16 G18 R15 P18 O17 O18 Q7 N17 N16 M17 C3 C4 D3 E4 F2 C11 (B 57.93%, B 0.54, 138 visits)
+]TE[1]SBKV[56.47]
+;B[od]C[Move 19
+
+* Win rate: B 56.65%
+* Score lead: B 0.38
+* Win rate drop: B ⇣-0.18%
+* Score drop: B ⇣-0.02
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BP16 Q16 R17 O17 R14 G18 E17 F16 E16 Q14 R13 E15 D15 B16 D14 E14 (B 56.57%, B 0.37, 1682 visits)
+]TE[1]SBKV[56.65]
+;W[pd]C[Move 20
+
+* Win rate: B 56.75%
+* Score lead: B 0.39
+* Win rate drop: W ⇣0.10%
+* Score drop: W ⇣0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WQ16 R17 O17 R14 G18 E17 Q14 R13 F16 E16 E15 D15 B16 D14 E14 B17 (B 56.61%, B 0.37, 1952 visits)
+]TE[1]SBKV[56.75]
+;B[qc]C[Move 21
+
+* Win rate: B 56.69%
+* Score lead: B 0.38
+* Win rate drop: B ⇣0.07%
+* Score drop: B ⇣0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BR17 O17 R14 G18 E17 F16 E16 Q14 R13 E15 D15 B16 D14 E14 B17 B14 (B 56.76%, B 0.39, 1994 visits)
+]TE[1]SBKV[56.69]
+;W[nc]C[Move 22
+
+* Win rate: B 56.26%
+* Score lead: B 0.34
+* Win rate drop: W ⇣-0.43%
+* Score drop: W ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WO17 R14 G18 E17 Q14 R13 F16 E16 E15 D15 B16 D14 E14 B17 B14 C14 (B 56.04%, B 0.32, 1218 visits)
+2. WO18 R15 Q14 R14 Q13 R13 O16 G17 F16 H18 C6 F3 C4 C3 B3 C5 (B 57.69%, B 0.46, 737 visits)
+]TE[1]SBKV[56.26]
+;B[qf]C[Move 23
+
+* Win rate: B 56.46%
+* Score lead: B 0.38
+* Win rate drop: B ⇣-0.20%
+* Score drop: B ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BR14 G18 E17 Q14 R13 F16 E16 E15 D15 B15 D14 E14 E13 G15 B17 D13 (B 56.49%, B 0.37, 1704 visits)
+]TE[1]SBKV[56.46]
+;W[pf]C[Move 24
+
+* Win rate: B 56.67%
+* Score lead: B 0.42
+* Win rate drop: W ⇣0.21%
+* Score drop: W ⇣0.04
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WG18 E17 F16 E16 Q14 R13 E15 D15 B16 D14 E18 B17 B14 C14 B15 D18 (B 56.36%, B 0.37, 878 visits)
+2. WQ14 R13 G18 E17 F16 E16 E15 D15 B16 D14 E18 B17 B14 C14 B15 D18 (B 56.48%, B 0.38, 806 visits)
+3. WC3 C4 D3 F3 E3 E4 F2 G17 F16 E17 E16 B17 G3 F4 (B 58.31%, B 0.60, 171 visits)
+4. WC6 P14 P15 O15 O16 Q14 N15 O14 G18 E17 (B 58.39%, B 0.59, 66 visits)
+]TE[1]SBKV[56.67]
+;B[qg]C[Move 25
+
+* Win rate: B 57.03%
+* Score lead: B 0.45
+* Win rate drop: B ⇣-0.37%
+* Score drop: B ⇣-0.03
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BR13 G18 E17 F16 E16 E15 D15 B16 D14 E14 B17 B14 C14 E18 C12 Q13 (B 56.79%, B 0.44, 1883 visits)
+]TE[1]SBKV[57.03]
+;W[pg]C[Move 26
+
+* Win rate: B 57.35%
+* Score lead: B 0.50
+* Win rate drop: W ⇣0.32%
+* Score drop: W ⇣0.05
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WG18 E17 F16 E16 E15 D15 B16 D14 E14 B17 B14 C14 E18 C12 E13 D18 (B 57.01%, B 0.45, 957 visits)
+2. WQ13 G17 F16 H18 C3 C4 D3 E4 F2 R18 B17 B18 C10 B3 B2 E2 (B 56.76%, B 0.42, 530 visits)
+3. WC3 D3 C4 C6 C5 D5 B6 E16 E17 E18 G17 E15 B16 B17 C13 H17 (B 58.21%, B 0.56, 163 visits)
+4. WC6 G17 F16 H18 F3 F4 G4 F5 E3 D3 C9 J4 G5 C5 D6 (B 57.11%, B 0.43, 255 visits)
+5. WF3 G17 F16 E17 E16 B17 C6 F4 G4 F5 E2 C3 C9 K3 H3 H6 (B 58.60%, B 0.59, 22 visits)
+]TE[1]SBKV[57.35]
+;B[qb]C[Move 27
+
+* Win rate: B 56.27%
+* Score lead: B 0.43
+* Win rate drop: B ⇣1.09%
+* Score drop: B ⇣0.07
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BG17 F16 H18 C3 C4 D3 E4 F2 R18 B17 B18 C10 B3 B2 E2 B4 (B 57.98%, B 0.57, 996 visits)
+2. BR18 G18 E17 F16 E16 E15 D15 B16 D14 E14 B17 B14 C14 E13 B13 E18 (B 56.63%, B 0.44, 404 visits)
+]TE[1]SBKV[56.27]
+;W[gb]C[Move 28
+
+* Win rate: B 56.62%
+* Score lead: B 0.46
+* Win rate drop: W ⇣0.35%
+* Score drop: W ⇣0.03
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WG18 E17 F16 E16 E15 D15 B15 D14 E14 E13 F13 C13 B17 E18 H17 B18 (B 56.19%, B 0.43, 1541 visits)
+2. WC3 D3 C4 C6 B6 B7 C5 D6 D5 E5 E4 E2 F4 F5 G5 E6 (B 57.71%, B 0.52, 220 visits)
+]TE[1]SBKV[56.62]
+;B[ec]C[Move 29
+
+* Win rate: B 56.75%
+* Score lead: B 0.46
+* Win rate drop: B ⇣-0.14%
+* Score drop: B ⇣0.00
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BE17 F16 E16 E15 D15 B15 D14 E14 E13 F13 C13 B17 E18 H17 B18 B13 (B 56.67%, B 0.47, 1958 visits)
+]TE[1]SBKV[56.75]
+;W[fd]C[Move 30
+
+* Win rate: B 56.33%
+* Score lead: B 0.44
+* Win rate drop: W ⇣-0.42%
+* Score drop: W ⇣-0.02
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WF16 E16 E15 D15 B15 D14 E14 E13 F13 C13 B17 E18 H17 B18 A18 C18 (B 56.75%, B 0.46, 1995 visits)
+]TE[1]SBKV[56.33]
+;B[ed]C[Move 31
+
+* Win rate: B 56.70%
+* Score lead: B 0.48
+* Win rate drop: B ⇣-0.37%
+* Score drop: B ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BE16 E15 D15 B15 D14 E14 E13 F13 C13 B17 E18 H17 B18 B13 B12 E12 (B 56.35%, B 0.44, 1953 visits)
+]TE[1]SBKV[56.70]
+;W[ee]C[Move 32
+
+* Win rate: B 56.96%
+* Score lead: B 0.50
+* Win rate drop: W ⇣0.26%
+* Score drop: W ⇣0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WE15 D15 B15 D14 E14 E13 F13 C13 B17 E18 H17 B18 B13 B12 A18 C18 (B 56.70%, B 0.48, 1994 visits)
+]TE[1]SBKV[56.96]
+;B[de]C[Move 33
+
+* Win rate: B 57.17%
+* Score lead: B 0.51
+* Win rate drop: B ⇣-0.21%
+* Score drop: B ⇣-0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BD15 B16 D14 E14 B17 B14 C14 E18 C12 E13 D12 D18 C18 L13 E12 F12 (B 57.09%, B 0.52, 1859 visits)
+]TE[1]SBKV[57.17]
+;W[bd]C[Move 34
+
+* Win rate: B 58.09%
+* Score lead: B 0.61
+* Win rate drop: W ⇣0.91%
+* Score drop: W ⇣0.10
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WB15 D14 E14 E13 F13 C13 B17 E18 H17 B18 B13 B12 A18 F15 F14 C18 (B 56.66%, B 0.47, 961 visits)
+2. WB16 D14 E14 B17 B14 C14 E18 C12 E13 D12 D18 C18 L13 N13 N15 F11 (B 57.65%, B 0.54, 1027 visits)
+]TE[1]SBKV[58.09]
+;B[df]C[Move 35
+
+* Win rate: B 57.31%
+* Score lead: B 0.52
+* Win rate drop: B ⇣0.78%
+* Score drop: B ⇣0.09
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BD14 E14 B17 B14 C14 E18 C12 E13 D18 D12 B13 C11 B11 C10 B10 C9 (B 58.09%, B 0.61, 1988 visits)
+]TE[1]SBKV[57.31]
+;W[ef]C[Move 36
+
+* Win rate: B 57.27%
+* Score lead: B 0.52
+* Win rate drop: W ⇣-0.03%
+* Score drop: W ⇣0.00
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WE14 B17 B14 C14 E18 C12 E13 D12 D18 C18 L13 F11 C6 C5 D6 F4 (B 57.24%, B 0.51, 1545 visits)
+2. WE18 B17 B14 C14 E14 C12 E13 D12 D18 C18 L13 F11 C6 C5 D6 F4 (B 57.78%, B 0.58, 273 visits)
+3. WF15 B17 B14 C12 B13 E18 C13 H17 G17 H18 E12 C6 J3 L3 (B 59.05%, B 0.67, 152 visits)
+]TE[1]SBKV[57.27]
+;B[bc]C[Move 37
+
+* Win rate: B 57.92%
+* Score lead: B 0.59
+* Win rate drop: B ⇣-0.64%
+* Score drop: B ⇣-0.07
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BB17 B14 C14 E18 C12 E13 D12 D18 C18 L13 F11 C6 C5 D6 F4 D10 (B 57.30%, B 0.52, 1942 visits)
+]TE[1]SBKV[57.92]
+;W[bf]C[Move 38
+
+* Win rate: B 57.86%
+* Score lead: B 0.59
+* Win rate drop: W ⇣-0.06%
+* Score drop: W ⇣-0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WB14 C14 E18 C12 E13 D18 D12 B13 C11 B11 C10 B10 C9 O15 O16 N15 (B 57.92%, B 0.59, 1984 visits)
+]TE[1]SBKV[57.86]
+;B[cf]C[Move 39
+
+* Win rate: B 57.60%
+* Score lead: B 0.55
+* Win rate drop: B ⇣0.26%
+* Score drop: B ⇣0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BC14 E18 C12 E13 D18 D12 B13 C11 B11 C10 B10 C9 O15 O13 M16 M18 (B 57.96%, B 0.60, 1738 visits)
+2. BD12 E18 C14 E13 C12 D18 C18 L13 E12 B5 C4 C7 C9 (B 56.93%, B 0.48, 58 visits)
+]TE[1]SBKV[57.60]
+;W[eb]C[Move 40
+
+* Win rate: B 57.67%
+* Score lead: B 0.59
+* Win rate drop: W ⇣0.06%
+* Score drop: W ⇣0.05
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WE18 C12 E13 D18 D12 B13 C11 B11 C10 B10 C9 O15 O13 M16 M18 N13 (B 57.27%, B 0.52, 1044 visits)
+2. WE13 B13 E18 L14 L12 B15 L16 G15 F15 H12 (B 57.91%, B 0.56, 837 visits)
+]TE[1]SBKV[57.67]
+;B[ch]C[Move 41
+
+* Win rate: B 58.05%
+* Score lead: B 0.67
+* Win rate drop: B ⇣-0.39%
+* Score drop: B ⇣-0.07
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BC12 E13 D18 D12 B13 C11 B11 C10 B10 C9 O15 O16 N15 P15 O13 F3 (B 58.25%, B 0.68, 1136 visits)
+2. BB13 D18 B15 B18 A16 C3 C4 D3 E3 E2 F2 F3 E4 (B 56.03%, B 0.30, 141 visits)
+]TE[1]SBKV[58.05]
+;W[eg]C[Move 42
+
+* Win rate: B 57.28%
+* Score lead: B 0.60
+* Win rate drop: W ⇣-0.77%
+* Score drop: W ⇣-0.06
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WE13 D18 D12 B13 C11 B11 C10 B10 C9 O15 O13 M15 L17 L13 F3 N12 (B 57.37%, B 0.60, 1056 visits)
+2. WN3 O15 N5 M15 L17 Q12 O14 P12 (B 59.92%, B 0.88, 118 visits)
+]TE[1]SBKV[57.28]
+;B[dh]C[Move 43
+
+* Win rate: B 56.40%
+* Score lead: B 0.44
+* Win rate drop: B ⇣0.88%
+* Score drop: B ⇣0.16
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BD18 D12 B13 C11 B11 C10 B10 C9 O15 O13 M16 O16 L13 F3 L3 D2 (B 57.73%, B 0.68, 1282 visits)
+2. BD12 D18 C18 L13 F11 C6 C5 D6 F4 D10 E12 B11 G15 F15 H12 H3 (B 56.07%, B 0.40, 617 visits)
+]TE[1]SBKV[56.40]
+;W[db]C[Move 44
+
+* Win rate: B 57.12%
+* Score lead: B 0.54
+* Win rate drop: W ⇣0.72%
+* Score drop: W ⇣0.09
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WD18 C18 L13 F11 C6 C5 D6 F4 D10 F9 H12 N13 O15 G13 G12 F12 (B 56.09%, B 0.41, 1783 visits)
+]TE[1]SBKV[57.12]
+;B[cb]C[Move 45
+
+* Win rate: B 56.36%
+* Score lead: B 0.44
+* Win rate drop: B ⇣0.76%
+* Score drop: B ⇣0.09
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BC18 L12 F11 H12 N13 N15 N11 Q7 M14 Q12 (B 57.30%, B 0.56, 1824 visits)
+]TE[1]SBKV[56.36]
+;W[kh]C[Move 46
+
+* Win rate: B 56.83%
+* Score lead: B 0.50
+* Win rate drop: W ⇣0.47%
+* Score drop: W ⇣0.06
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WL13 F11 C6 C5 D6 F4 D10 E12 H12 N13 O15 N11 B11 M14 (B 55.86%, B 0.38, 1078 visits)
+2. WL12 F11 H12 N12 O15 C6 J3 L3 F3 M13 (B 56.85%, B 0.49, 322 visits)
+3. WM13 F11 H12 K12 K13 C6 J3 L3 (B 57.73%, B 0.56, 112 visits)
+]TE[1]SBKV[56.83]
+;B[ld]C[Move 47
+
+* Win rate: B 54.38%
+* Score lead: B 0.22
+* Win rate drop: B ⇣2.45%
+* Score drop: B ⇣0.28
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #48 ⇣5.01%, #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BF11 C6 G15 G12 J12 J13 H13 H12 K13 J14 K12 (B 57.33%, B 0.53, 483 visits)
+2. BO15 O13 M14 N12 K13 L16 G15 E12 K12 L13 K15 K14 J14 (B 57.45%, B 0.61, 389 visits)
+3. BJ12 E12 K14 C3 D3 C4 C5 B5 B6 C6 D5 B7 B4 A6 B3 M14 (B 55.97%, B 0.38, 161 visits)
+4. BN12 M13 F11 C6 C5 D6 F4 D10 E12 B11 B12 G12 (B 55.22%, B 0.27, 93 visits)
+5. BN13 N15 F11 C6 B5 D10 J12 B6 C5 E6 (B 55.20%, B 0.26, 117 visits)
+6. BE12 C4 C3 C5 B3 C7 C9 D9 C10 F6 E4 (B 55.77%, B 0.33, 162 visits)
+]SBKV[54.38]
+(;W[md]C[Move 48
+
+* Win rate: B 59.39%
+* Score lead: B 0.94
+* Win rate drop: W ⇣5.01%
+* Score drop: W ⇣0.73
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WN15 M15 N14 J15 L14 G15 F15 K13 L13 J17 M18 H12 E12 K12 F3 K10 (B 54.08%, B 0.17, 1223 visits)
+2. WO15 K14 J12 M13 M12 J17 C3 C4 D3 E3 E2 F2 F3 E4 G2 D2 (B 54.70%, B 0.27, 506 visits)
+]BM[1]SBKV[59.39]
+;B[lf]C[Move 49
+
+* Win rate: B 58.47%
+* Score lead: B 0.77
+* Win rate drop: B ⇣0.92%
+* Score drop: B ⇣0.17
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BM15 M13 K16 R12 S12 J13 M18 L17 M17 J18 O15 O16 N15 P15 (B 59.78%, B 1.00, 1275 visits)
+2. BM14 N12 K13 L13 L14 K14 N13 O12 K15 J14 J15 H14 N15 M17 L16 O15 (B 58.24%, B 0.71, 370 visits)
+]TE[1]SBKV[58.47]
+;W[lc]C[Move 50
+
+* Win rate: B 62.10%
+* Score lead: B 1.11
+* Win rate drop: W ⇣3.63%
+* Score drop: W ⇣0.33
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WR12 S12 N12 K13 L13 L14 K14 N13 O12 K15 J14 N15 M17 L16 O15 L17 (B 57.89%, B 0.70, 492 visits)
+2. WN12 K16 K14 M17 J18 H17 H15 L14 K13 H18 J17 J16 H19 (B 58.04%, B 0.73, 980 visits)
+3. WN3 N5 N12 K13 K12 J13 H11 M17 (B 59.84%, B 0.90, 100 visits)
+4. WF3 M12 M11 N12 L13 L11 M10 L14 (B 60.06%, B 0.90, 41 visits)
+]SBKV[62.10]
+;B[ih]C[Move 51
+
+* Win rate: B 60.87%
+* Score lead: B 0.94
+* Win rate drop: B ⇣1.23%
+* Score drop: B ⇣0.17
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BF11 N3 L3 O5 M5 Q4 P4 P5 Q7 (B 62.39%, B 1.17, 725 visits)
+2. BM12 M13 N13 L13 N15 O14 O15 O13 L17 L16 M15 L18 K17 K18 N12 N14 (B 62.56%, B 1.14, 819 visits)
+]TE[1]SBKV[60.87]
+;W[fi]C[Move 52
+
+* Win rate: B 64.64%
+* Score lead: B 1.40
+* Win rate drop: W ⇣3.77%
+* Score drop: W ⇣0.46
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WF3 F11 C6 B5 F6 G15 F15 F5 G5 E5 E6 G4 F4 H4 H5 (B 59.92%, B 0.84, 774 visits)
+2. WC3 C4 D3 E4 F2 F11 B3 G15 F15 B4 G4 G5 H5 G6 F4 F5 (B 62.39%, B 1.10, 165 visits)
+3. WJ13 H13 K13 F11 H12 G13 H14 C6 F3 H3 D3 C3 C2 C4 E4 E2 (B 62.54%, B 1.07, 158 visits)
+4. WC6 C5 E12 D6 L10 K14 J13 K13 K12 (B 61.74%, B 1.09, 101 visits)
+]SBKV[64.64]
+;B[if]C[Move 53
+
+* Win rate: B 60.55%
+* Score lead: B 0.83
+* Win rate drop: B ⇣4.10%
+* Score drop: B ⇣0.57
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BM12 L11 L13 M11 N12 N11 O12 Q12 O11 K13 K14 J13 O9 Q7 P7 P8 (B 65.46%, B 1.50, 1386 visits)
+2. BK13 C3 C4 D3 E3 E2 F2 F3 E4 G2 D2 F1 C2 N4 L16 O5 (B 62.87%, B 1.14, 115 visits)
+]SBKV[60.55]
+;W[cq]C[Move 54
+
+* Win rate: B 61.58%
+* Score lead: B 0.93
+* Win rate drop: W ⇣1.03%
+* Score drop: W ⇣0.09
+* Visits: 2001
+* KataGo choice no. 4
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WM4 G15 F15 M6 L10 L13 N3 O6 H3 M12 (B 59.83%, B 0.76, 353 visits)
+2. WN3 G15 F15 N5 L4 F3 H3 J4 J3 K4 K3 L5 M4 M5 L16 (B 60.24%, B 0.79, 439 visits)
+3. WF3 G15 F15 L4 C6 D6 D7 C5 E6 D5 B6 E7 D8 F6 E8 E5 (B 60.97%, B 0.85, 325 visits)
+4. WC3 G15 F15 D3 C4 C5 B5 B6 C6 D5 B7 B4 A6 B3 N3 N5 (B 61.34%, B 0.91, 273 visits)
+5. WN4 N3 M3 M4 O3 N2 N5 O2 L4 R3 (B 60.67%, B 0.88, 108 visits)
+6. WK13 K14 N13 G14 E12 H11 F3 D9 (B 60.95%, B 0.94, 181 visits)
+7. WL10 G15 F15 L13 N3 N5 L3 G3 R3 M4 (B 62.44%, B 1.10, 60 visits)
+8. WM3 M5 F3 J4 K3 J3 K4 (B 61.14%, B 0.92, 77 visits)
+]TE[1]SBKV[61.58]
+;B[cp]C[Move 55
+
+* Win rate: B 60.66%
+* Score lead: B 0.80
+* Win rate drop: B ⇣0.92%
+* Score drop: B ⇣0.13
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BD3 C4 C5 B5 B6 C6 D5 B7 B4 A6 B3 N3 N5 C2 B2 L4 (B 62.12%, B 1.00, 867 visits)
+2. BG15 C4 F15 F19 B15 C19 D19 B19 B18 E19 C15 J16 D5 (B 61.96%, B 0.99, 750 visits)
+]TE[1]SBKV[60.66]
+;W[dq]C[Move 56
+
+* Win rate: B 60.65%
+* Score lead: B 0.79
+* Win rate drop: W ⇣-0.02%
+* Score drop: W ⇣-0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WD3 E3 E2 F2 F3 E4 G2 D2 F1 C2 M4 M2 Q3 Q2 R2 Q4 (B 60.64%, B 0.80, 1851 visits)
+]TE[1]SBKV[60.65]
+;B[fq]C[Move 57
+
+* Win rate: B 58.95%
+* Score lead: B 0.65
+* Win rate drop: B ⇣1.69%
+* Score drop: B ⇣0.14
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BE3 E2 F2 F3 E4 G2 D2 F1 C2 N3 G15 F15 N4 M4 N5 O3 (B 60.73%, B 0.80, 1777 visits)
+]TE[1]SBKV[58.95]
+;W[eq]C[Move 58
+
+* Win rate: B 59.89%
+* Score lead: B 0.75
+* Win rate drop: W ⇣0.93%
+* Score drop: W ⇣0.10
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WE3 E4 F2 G3 G2 H3 F5 G15 F15 H2 B3 J6 D6 E6 K7 L16 (B 58.87%, B 0.63, 998 visits)
+2. WF2 G3 E3 E4 G2 H3 F5 G15 F15 H2 B3 J6 D6 E6 K7 L16 (B 59.05%, B 0.66, 851 visits)
+3. WK13 J13 E3 E4 F2 G3 G2 H3 L10 J10 H11 K12 L13 K10 (B 59.39%, B 0.76, 129 visits)
+]TE[1]SBKV[59.89]
+;B[ep]C[Move 59
+
+* Win rate: B 59.55%
+* Score lead: B 0.71
+* Win rate drop: B ⇣0.33%
+* Score drop: B ⇣0.05
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BE4 F2 G15 F15 G3 G2 H3 F5 M12 N3 N5 L4 H5 M6 L11 (B 59.89%, B 0.75, 1985 visits)
+]TE[1]SBKV[59.55]
+;W[fr]C[Move 60
+
+* Win rate: B 59.96%
+* Score lead: B 0.75
+* Win rate drop: W ⇣0.41%
+* Score drop: W ⇣0.05
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WF2 G15 F15 G3 G2 H3 H2 J3 Q7 M12 M11 N12 L13 L14 K11 O15 (B 59.55%, B 0.70, 1785 visits)
+2. WF4 F2 B3 C6 E2 H3 G6 D8 E8 D9 K10 (B 60.71%, B 1.00, 147 visits)
+3. WB15 B13 F2 G3 G2 H3 B19 C19 A17 A18 A15 (B 61.08%, B 1.14, 30 visits)
+]TE[1]SBKV[59.96]
+;B[ge]C[Move 61
+
+* Win rate: B 60.71%
+* Score lead: B 0.83
+* Win rate drop: B ⇣-0.75%
+* Score drop: B ⇣-0.08
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BG15 F15 G3 G2 H3 H2 J3 Q7 M12 M11 N12 L13 L14 K11 O15 Q12 (B 60.63%, B 0.83, 1054 visits)
+2. BG3 G2 H3 Q7 H10 H2 J3 O7 L16 L14 L13 (B 59.45%, B 0.69, 702 visits)
+]TE[1]SBKV[60.71]
+;W[fe]C[Move 62
+
+* Win rate: B 60.51%
+* Score lead: B 0.80
+* Win rate drop: W ⇣-0.20%
+* Score drop: W ⇣-0.03
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WF15 G3 G2 H3 O5 N4 N5 M4 M5 L4 L10 L13 Q4 P4 P5 Q12 (B 60.49%, B 0.80, 1755 visits)
+]TE[1]SBKV[60.51]
+;B[gq]C[Move 63
+
+* Win rate: B 60.93%
+* Score lead: B 0.84
+* Win rate drop: B ⇣-0.41%
+* Score drop: B ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BG3 G2 H3 O5 N4 H2 J3 L10 H10 Q7 L16 L14 (B 60.95%, B 0.85, 1706 visits)
+]TE[1]SBKV[60.93]
+;W[gr]C[Move 64
+
+* Win rate: B 60.95%
+* Score lead: B 0.84
+* Win rate drop: W ⇣0.02%
+* Score drop: W ⇣0.00
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WG2 H3 O5 N4 H2 J3 L10 L13 N5 M4 Q4 P4 (B 60.92%, B 0.84, 1946 visits)
+]TE[1]SBKV[60.95]
+;B[hq]C[Move 65
+
+* Win rate: B 61.21%
+* Score lead: B 0.88
+* Win rate drop: B ⇣-0.26%
+* Score drop: B ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BH3 O5 N4 H2 J3 Q7 Q12 P12 Q11 P11 L16 L14 L13 M13 K13 M15 (B 60.96%, B 0.84, 1973 visits)
+]TE[1]SBKV[61.21]
+;W[cj]C[Move 66
+
+* Win rate: B 65.79%
+* Score lead: B 1.52
+* Win rate drop: W ⇣4.58%
+* Score drop: W ⇣0.63
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WO5 N4 N5 M4 M5 L4 L10 L13 (B 60.72%, B 0.85, 217 visits)
+2. WH2 J3 Q7 M12 O5 N4 M11 N12 N5 M4 L13 L14 K11 (B 60.97%, B 0.80, 362 visits)
+3. WF5 H2 B3 J6 K7 J7 K9 J8 H10 K11 J9 (B 60.95%, B 0.90, 247 visits)
+4. WQ7 H2 B4 B5 B3 P7 M7 P8 L10 L16 L14 L13 (B 60.78%, B 0.82, 229 visits)
+5. WL10 L13 Q3 Q2 R2 Q4 R3 H2 B4 B5 B3 M6 K12 K13 J11 (B 61.01%, B 0.86, 245 visits)
+6. WK13 K14 N13 H11 O5 N4 H2 K3 (B 62.05%, B 1.01, 167 visits)
+7. WQ3 Q2 R2 Q4 R3 H2 L10 B3 B2 B4 A2 L13 M12 L16 M13 L14 (B 61.44%, B 0.93, 114 visits)
+8. WD10 M12 H2 J3 Q7 L11 M11 (B 63.18%, B 1.13, 67 visits)
+9. WJ10 K11 F5 K10 J8 H2 B3 (B 62.06%, B 0.95, 37 visits)
+]SBKV[65.79]
+;B[kd]C[Move 67
+
+* Win rate: B 63.75%
+* Score lead: B 1.24
+* Win rate drop: B ⇣2.03%
+* Score drop: B ⇣0.28
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BH2 O5 B3 B2 B4 A2 N4 N5 M4 M5 Q7 R8 Q4 R3 J10 (B 66.58%, B 1.67, 699 visits)
+2. BM12 H2 J3 Q7 L16 M11 N12 O7 B15 L17 Q12 N4 N3 (B 66.00%, B 1.33, 474 visits)
+3. BD10 D9 E10 E8 E12 F5 E6 G8 F12 F6 F4 H5 H6 J6 H7 (B 65.01%, B 1.40, 305 visits)
+4. BK10 H2 J3 N12 (B 64.66%, B 1.29, 10 visits)
+5. BH10 H2 J3 L10 D10 D8 F10 E11 (B 65.15%, B 1.34, 136 visits)
+6. BG10 L10 J10 H2 (B 63.86%, B 1.16, 29 visits)
+]SBKV[63.75]
+;W[kc]C[Move 68
+
+* Win rate: B 67.70%
+* Score lead: B 1.77
+* Win rate drop: W ⇣3.95%
+* Score drop: W ⇣0.53
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #69 ⇣6.66%, #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WH2 J3 L14 N13 M13 N15 O15 N12 L10 L17 M18 (B 63.47%, B 1.17, 764 visits)
+2. WL14 N15 O15 L13 N4 O5 F5 C8 D8 D7 E8 E7 (B 62.91%, B 1.13, 829 visits)
+]SBKV[67.70]
+(;B[ij]C[Move 69
+
+* Win rate: B 61.05%
+* Score lead: B 0.85
+* Win rate drop: B ⇣6.66%
+* Score drop: B ⇣0.92
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #70 ⇣16.52%, #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BH2 L10 L13 M12 K17 M5 B3 B2 B4 A2 M7 N3 (B 68.53%, B 1.90, 1020 visits)
+2. BM12 H2 J3 Q3 Q2 R2 Q4 R3 M11 L3 L5 N3 O4 M5 (B 66.69%, B 1.38, 293 visits)
+3. BQ12 P12 H2 F5 B3 B2 B4 A2 J10 C7 (B 66.79%, B 1.63, 50 visits)
+]BM[1]SBKV[61.05]
+(;W[bg]C[Move 70
+
+* Win rate: B 77.56%
+* Score lead: B 3.19
+* Win rate drop: W ⇣16.52%
+* Score drop: W ⇣2.34
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WH2 J3 L14 Q12 P12 E9 C7 E7 M13 P11 O12 G10 B12 (B 60.36%, B 0.76, 1475 visits)
+]BM[1]SBKV[77.56]
+;B[be]C[Move 71
+
+* Win rate: B 77.38%
+* Score lead: B 3.20
+* Win rate drop: B ⇣0.19%
+* Score drop: B ⇣-0.01
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BB15 B12 H2 M6 M8 N3 N5 M5 L3 N8 M9 N6 M4 Q7 N4 L14 (B 77.56%, B 3.19, 1994 visits)
+]TE[1]SBKV[77.38]
+;W[bh]C[Move 72
+
+* Win rate: B 77.62%
+* Score lead: B 3.20
+* Win rate drop: W ⇣0.24%
+* Score drop: W ⇣0.00
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. WB12 H2 M6 M8 N3 N5 M5 L3 N8 N9 O8 Q7 R8 O9 P8 (B 77.13%, B 3.23, 1215 visits)
+2. WH2 B11 J3 J4 K3 K4 L14 L13 M13 K13 N14 E10 E11 D11 (B 77.78%, B 3.01, 435 visits)
+3. WH11 J11 H2 B11 J3 J4 K3 K4 L4 L3 L2 M3 L5 H5 G6 (B 77.76%, B 3.11, 145 visits)
+]TE[1]SBKV[77.62]
+;B[hr]C[Move 73
+
+* Win rate: B 78.58%
+* Score lead: B 3.47
+* Win rate drop: B ⇣-0.96%
+* Score drop: B ⇣-0.26
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #74 ⇣5.15%, #114 ⇣11.99%
+
+The proposed variations
+
+1. BH2 M6 M4 Q3 Q2 P4 Q4 R3 O4 P2 O3 L10 R6 R2 S7 O2 (B 78.31%, B 3.33, 1748 visits)
+]TE[1]SBKV[78.58]
+(;W[pq]C[Move 74
+
+* Win rate: B 83.73%
+* Score lead: B 4.18
+* Win rate drop: W ⇣5.15%
+* Score drop: W ⇣0.71
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WM6 M8 N3 N5 M5 L3 L9 L8 K9 M9 K11 L13 M12 K12 K8 K7 (B 77.55%, B 3.37, 603 visits)
+2. WL14 L13 M13 K13 N14 M7 M15 L9 G8 Q7 R6 G10 D8 (B 78.33%, B 3.18, 154 visits)
+3. WL6 L9 M4 M6 O5 Q7 R8 Q4 (B 78.84%, B 3.49, 266 visits)
+4. WN7 M6 N6 N5 M7 Q7 R8 (B 78.68%, B 3.21, 224 visits)
+5. WL10 L9 M9 L8 M8 M7 N7 M6 N6 (B 80.55%, B 3.76, 59 visits)
+6. WN6 N8 N3 N5 M5 O5 M4 M6 L6 M7 R3 (B 79.92%, B 3.68, 110 visits)
+7. WL7 L9 M5 M3 L3 N8 Q7 P7 (B 79.31%, B 3.39, 85 visits)
+]BM[1]SBKV[83.73]
+;B[or]C[Move 75
+
+* Win rate: B 78.87%
+* Score lead: B 3.39
+* Win rate drop: B ⇣4.85%
+* Score drop: B ⇣0.79
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BQ2 R2 Q4 R3 Q7 R8 M7 K7 B3 B2 B4 A2 M9 K5 L6 K6 (B 84.23%, B 4.27, 1570 visits)
+]SBKV[78.87]
+;W[km]C[Move 76
+
+* Win rate: B 78.08%
+* Score lead: B 3.18
+* Win rate drop: W ⇣-0.79%
+* Score drop: W ⇣-0.22
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WL7 B3 B2 L9 M5 B4 A2 N8 M3 O5 J7 K5 N7 O8 (B 77.99%, B 3.24, 671 visits)
+2. WN7 Q7 R8 Q8 L8 L10 M5 L7 O5 P4 (B 79.50%, B 3.52, 329 visits)
+3. WQ7 P7 M7 P8 L10 K7 N9 L13 M5 O5 Q2 M12 (B 79.10%, B 3.49, 199 visits)
+4. WM7 Q7 R6 M9 K8 K9 M4 Q8 L8 L9 K5 (B 80.38%, B 3.50, 200 visits)
+5. WL10 L9 Q7 M10 O5 P4 P7 M4 M5 L5 L6 M6 (B 80.27%, B 3.56, 166 visits)
+6. WL8 Q7 R6 L10 M6 Q8 M4 R8 (B 80.45%, B 3.53, 115 visits)
+7. WL14 L13 M13 K13 N14 M7 M11 L10 G8 M15 (B 80.44%, B 3.57, 89 visits)
+]TE[1]SBKV[78.08]
+;B[kk]C[Move 77
+
+* Win rate: B 79.04%
+* Score lead: B 3.59
+* Win rate drop: B ⇣-0.96%
+* Score drop: B ⇣-0.41
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BM5 L14 L13 M13 K13 N14 L9 M15 Q7 R6 H8 O8 (B 78.77%, B 3.10, 282 visits)
+2. BL9 M5 B3 B2 B4 A2 N8 M3 O5 J7 C8 D8 D7 (B 77.66%, B 3.30, 269 visits)
+3. BM9 L5 Q7 R8 Q8 M3 O13 N8 N9 H6 B3 B2 B4 A2 (B 78.29%, B 3.32, 201 visits)
+4. BL5 Q7 Q4 R3 N6 L14 L13 M13 K13 M12 N14 (B 78.46%, B 3.06, 145 visits)
+5. BQ7 R8 M9 L5 Q8 M3 O13 N8 N9 H6 B3 B2 B4 A2 (B 77.85%, B 3.16, 175 visits)
+6. BB3 B2 L9 M5 B4 A2 N8 M3 O5 J7 C8 D8 D7 (B 78.48%, B 3.43, 224 visits)
+7. BQ12 P12 M5 Q7 Q11 L14 L13 M13 K13 (B 79.12%, B 3.27, 58 visits)
+8. BL10 L5 M3 N12 Q12 P12 (B 76.20%, B 2.93, 50 visits)
+9. BM8 M7 N8 L4 L8 K7 O13 G6 B3 B2 B4 A2 C8 (B 77.89%, B 3.26, 178 visits)
+]TE[1]SBKV[79.04]
+;W[lo]C[Move 78
+
+* Win rate: B 79.74%
+* Score lead: B 3.75
+* Win rate drop: W ⇣0.70%
+* Score drop: W ⇣0.17
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WM5 Q7 R8 M7 M6 N7 K6 M3 L3 L2 K3 M4 L4 (B 78.60%, B 3.55, 948 visits)
+2. WL5 M6 L6 N8 M3 J7 J5 H6 K3 N4 M4 N5 (B 79.03%, B 3.49, 324 visits)
+3. WH11 J11 M5 N7 L3 K5 L5 K6 M7 N8 (B 78.91%, B 3.55, 282 visits)
+]TE[1]SBKV[79.74]
+;B[lq]C[Move 79
+
+* Win rate: B 78.02%
+* Score lead: B 3.32
+* Win rate drop: B ⇣1.72%
+* Score drop: B ⇣0.43
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BQ7 R8 M7 M6 N7 K6 M3 L8 M9 L3 L2 M8 N8 K9 K10 (B 80.87%, B 3.96, 627 visits)
+2. BN8 L3 K5 L5 Q7 R6 K6 N7 O8 K7 R8 (B 78.94%, B 3.65, 330 visits)
+3. BN7 L3 K4 N6 O7 M7 N9 Q7 O6 O5 (B 78.45%, B 3.69, 118 visits)
+4. BM7 Q7 O6 O5 Q4 R2 P7 M3 M6 N4 (B 78.80%, B 3.74, 171 visits)
+5. BR6 S6 Q7 R8 S5 S7 M7 M6 N7 K6 J7 L8 M9 L3 (B 78.78%, B 3.51, 215 visits)
+]TE[1]SBKV[78.02]
+;W[kq]C[Move 80
+
+* Win rate: B 81.16%
+* Score lead: B 4.10
+* Win rate drop: W ⇣3.14%
+* Score drop: W ⇣0.78
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WQ7 P7 O5 P8 L3 P4 N8 L2 M10 M8 M7 N9 M9 L8 (B 77.34%, B 3.21, 752 visits)
+2. WL3 M4 L4 L5 K5 L6 K6 M6 K2 G6 H7 M7 G7 K7 H6 B3 (B 79.56%, B 3.77, 391 visits)
+3. WO5 N6 O6 N7 O7 N5 N4 M4 N8 O4 M7 N3 M6 N4 M9 (B 77.84%, B 3.22, 216 visits)
+4. WN8 N9 O8 N12 O5 P4 L3 L2 M4 N3 K2 (B 79.73%, B 3.23, 155 visits)
+5. WH11 J11 Q7 P7 N8 P8 O6 P6 M10 M8 (B 78.35%, B 3.23, 126 visits)
+6. WN12 Q12 P12 P11 O13 O11 R12 Q11 Q7 (B 79.40%, B 3.70, 45 visits)
+7. WN7 O13 L3 M4 L4 N5 L5 N6 M6 M2 Q7 C8 (B 79.05%, B 3.12, 82 visits)
+8. WO6 O5 N12 Q12 P12 P11 O13 O11 J8 (B 78.18%, B 3.31, 80 visits)
+]SBKV[81.16]
+;B[lp]C[Move 81
+
+* Win rate: B 81.86%
+* Score lead: B 4.27
+* Win rate drop: B ⇣-0.69%
+* Score drop: B ⇣-0.17
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BM4 L4 L5 K5 L6 K6 M6 H11 J11 J4 G6 K9 L10 M7 N6 J8 (B 81.87%, B 4.25, 1684 visits)
+]TE[1]SBKV[81.86]
+;W[kp]C[Move 82
+
+* Win rate: B 81.32%
+* Score lead: B 4.05
+* Win rate drop: W ⇣-0.54%
+* Score drop: W ⇣-0.21
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WL4 L5 K5 L6 K6 M6 H11 J11 J4 G6 H7 M7 G7 H6 M8 L8 (B 81.77%, B 4.26, 1146 visits)
+2. WH11 J11 L4 L5 K5 L6 K6 M6 J4 G6 H7 M7 G7 H6 M8 L8 (B 81.85%, B 4.12, 424 visits)
+3. WA15 C15 L4 L5 K5 L6 K6 M6 F5 K4 F4 B3 B2 B4 (B 83.29%, B 5.01, 85 visits)
+4. WH13 L5 J13 N13 L10 M11 L11 M10 M9 (B 81.96%, B 4.03, 137 visits)
+]TE[1]SBKV[81.32]
+;B[ko]C[Move 83
+
+* Win rate: B 82.21%
+* Score lead: B 4.38
+* Win rate drop: B ⇣-0.90%
+* Score drop: B ⇣-0.32
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BL5 K5 L6 K6 M6 H11 J11 K2 B3 B2 B4 A2 C8 G6 M7 M2 (B 81.88%, B 4.16, 1840 visits)
+]TE[1]SBKV[82.21]
+;W[jo]C[Move 84
+
+* Win rate: B 82.07%
+* Score lead: B 4.22
+* Win rate drop: W ⇣-0.15%
+* Score drop: W ⇣-0.16
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WK5 L6 K6 M6 H11 J11 J4 G6 K9 L10 M7 N6 J8 N12 C7 (B 81.62%, B 4.22, 1422 visits)
+]TE[1]SBKV[82.07]
+;B[kn]C[Move 85
+
+* Win rate: B 82.27%
+* Score lead: B 4.26
+* Win rate drop: B ⇣-0.20%
+* Score drop: B ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BL6 K6 M6 H11 J11 J4 G6 K9 L10 M7 N6 J8 N12 C7 B3 B2 (B 82.06%, B 4.22, 1993 visits)
+]TE[1]SBKV[82.27]
+;W[jn]C[Move 86
+
+* Win rate: B 82.00%
+* Score lead: B 4.22
+* Win rate drop: W ⇣-0.27%
+* Score drop: W ⇣-0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WK6 M6 H11 J11 J4 G6 K9 L10 M7 N6 J8 N12 C7 D7 D8 (B 81.95%, B 4.17, 1612 visits)
+2. WA15 C15 K6 M6 F5 B3 B2 B4 A2 K4 C7 F4 L10 M7 L8 (B 84.25%, B 4.94, 101 visits)
+]TE[1]SBKV[82.00]
+;B[ln]C[Move 87
+
+* Win rate: B 82.09%
+* Score lead: B 4.18
+* Win rate drop: B ⇣-0.09%
+* Score drop: B ⇣0.04
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BM6 H11 J11 J4 M7 M2 N2 G6 F5 M8 L8 (B 82.00%, B 4.22, 1995 visits)
+]TE[1]SBKV[82.09]
+;W[jr]C[Move 88
+
+* Win rate: B 83.91%
+* Score lead: B 5.18
+* Win rate drop: W ⇣1.82%
+* Score drop: W ⇣1.00
+* Visits: 2001
+* KataGo choice no. 3
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WH11 J11 J4 G6 K9 L10 M7 N6 J8 N12 C7 D7 (B 81.01%, B 3.88, 500 visits)
+2. WJ4 M7 M2 N5 G6 F5 J8 C8 L14 M13 L13 M12 (B 82.44%, B 4.08, 455 visits)
+3. WK2 B3 B2 B4 A2 C8 G6 M7 M2 N5 N3 N4 L8 (B 81.68%, B 4.47, 497 visits)
+4. WJ9 M7 M8 L8 K7 K10 N5 O6 M2 (B 82.76%, B 4.62, 68 visits)
+]TE[1]SBKV[83.91]
+;B[bq]C[Move 89
+
+* Win rate: B 82.36%
+* Score lead: B 4.67
+* Win rate drop: B ⇣1.55%
+* Score drop: B ⇣0.52
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BB3 B2 B4 H11 K12 A2 C8 D8 D7 C7 D9 C11 (B 84.81%, B 5.46, 1121 visits)
+2. BC8 B3 H6 J7 M7 M2 N5 H7 (B 83.21%, B 4.89, 272 visits)
+3. BH6 J8 G8 H11 J11 K9 L11 (B 82.38%, B 4.69, 143 visits)
+]TE[1]SBKV[82.36]
+;W[br]C[Move 90
+
+* Win rate: B 81.81%
+* Score lead: B 4.54
+* Win rate drop: W ⇣-0.55%
+* Score drop: W ⇣-0.13
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WB2 B4 A2 C8 G6 K7 J7 K8 C7 D7 B8 B7 B10 A16 C6 F5 (B 82.22%, B 4.61, 1782 visits)
+]TE[1]SBKV[81.81]
+;B[bp]C[Move 91
+
+* Win rate: B 84.60%
+* Score lead: B 5.41
+* Win rate drop: B ⇣-2.79%
+* Score drop: B ⇣-0.87
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BB4 A2 C8 G6 K7 J7 K8 C7 D7 B8 B7 C6 B9 D8 C9 B10 (B 81.96%, B 4.58, 1701 visits)
+]TE[1]SBKV[84.60]
+;W[ar]C[Move 92
+
+* Win rate: B 82.42%
+* Score lead: B 4.71
+* Win rate drop: W ⇣-2.17%
+* Score drop: W ⇣-0.69
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WA2 C8 G6 K7 J7 K8 C7 D7 B8 B7 C6 B9 F5 F4 B10 A16 (B 84.01%, B 5.19, 920 visits)
+2. WM2 N5 A2 C8 N3 K7 J7 K8 H6 N4 F5 F4 (B 86.03%, B 4.58, 129 visits)
+3. WH11 G1 J11 M12 L13 L14 M13 N13 N12 K11 K12 L11 (B 84.41%, B 5.11, 564 visits)
+]TE[1]SBKV[82.42]
+;B[hn]C[Move 93
+
+* Win rate: B 83.12%
+* Score lead: B 4.62
+* Win rate drop: B ⇣-0.69%
+* Score drop: B ⇣0.09
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BC8 G6 K7 J7 K8 C7 D7 B8 B7 B10 A16 C6 B9 D8 A8 D6 (B 83.04%, B 4.94, 1077 visits)
+2. BH6 M7 N6 J7 K8 K7 G8 M2 N2 C7 N9 O8 (B 82.67%, B 4.69, 119 visits)
+3. BB8 C8 C7 D7 D8 C9 E7 D6 C6 E8 E6 D9 N5 (B 82.34%, B 4.31, 178 visits)
+4. BK7 J7 K8 F5 C8 D6 G5 G6 F6 (B 80.71%, B 4.33, 168 visits)
+5. BC7 G6 K7 J7 K8 B8 F5 (B 81.97%, B 3.86, 33 visits)
+]TE[1]SBKV[83.12]
+;W[im]C[Move 94
+
+* Win rate: B 82.93%
+* Score lead: B 4.18
+* Win rate drop: W ⇣-0.19%
+* Score drop: W ⇣-0.45
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WJ9 M7 M8 K7 L8 J7 N5 N7 M2 O4 J4 K9 H10 (B 82.42%, B 4.71, 282 visits)
+2. WJ7 C8 M7 N6 M2 N2 D8 C7 N12 K8 (B 82.79%, B 4.15, 429 visits)
+3. WJ8 N5 C7 G7 G8 F8 G9 N13 F7 (B 82.31%, B 4.62, 226 visits)
+4. WM7 N6 J7 K8 K7 G8 M2 N2 N7 O6 N1 N3 C7 N9 (B 83.02%, B 4.37, 262 visits)
+5. WM2 N5 N3 N4 J7 C8 B8 B7 B9 M7 H7 G6 (B 84.69%, B 4.57, 110 visits)
+6. WH11 J11 J7 M7 M2 N5 H7 G7 G8 (B 83.28%, B 4.35, 141 visits)
+]TE[1]SBKV[82.93]
+;B[mo]C[Move 95
+
+* Win rate: B 79.34%
+* Score lead: B 3.42
+* Win rate drop: B ⇣3.58%
+* Score drop: B ⇣0.75
+* Visits: 2001
+* KataGo choice no. 3
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BC8 L14 M7 H7 M2 H9 H10 F9 G10 D8 (B 83.44%, B 4.37, 1090 visits)
+2. BM7 M2 N5 N3 N4 H7 G7 G8 F7 J9 O13 C7 H9 H8 O15 (B 82.38%, B 3.81, 537 visits)
+3. BN5 H7 C8 G6 F7 B8 B7 B9 G7 H5 J4 (B 81.02%, B 3.80, 269 visits)
+]SBKV[79.34]
+;W[lm]C[Move 96
+
+* Win rate: B 82.57%
+* Score lead: B 4.53
+* Win rate drop: W ⇣3.23%
+* Score drop: W ⇣1.11
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WH7 B8 C8 C7 D7 D8 C9 E7 D6 C6 E8 F8 D9 G6 H9 N12 (B 78.58%, B 3.21, 1446 visits)
+]SBKV[82.57]
+;B[mm]C[Move 97
+
+* Win rate: B 82.90%
+* Score lead: B 4.52
+* Win rate drop: B ⇣-0.34%
+* Score drop: B ⇣0.02
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BN7 J9 K8 K7 N9 N8 M8 C7 D7 D8 E8 H7 (B 82.58%, B 4.54, 1982 visits)
+]TE[1]SBKV[82.90]
+;W[hm]C[Move 98
+
+* Win rate: B 82.45%
+* Score lead: B 4.51
+* Win rate drop: W ⇣-0.45%
+* Score drop: W ⇣-0.00
+* Visits: 2001
+* KataGo choice no. 3
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WJ9 C8 D8 D7 K10 K9 L10 J8 H9 H8 H10 J11 M10 N8 L14 (B 82.17%, B 4.43, 560 visits)
+2. WN8 M8 J9 K9 F7 C8 F5 G6 (B 82.66%, B 4.27, 502 visits)
+3. WH7 C8 L14 M13 L13 M12 L11 K8 K7 M11 K15 L10 N8 K16 J15 N9 (B 83.08%, B 4.60, 376 visits)
+4. WH11 J11 H7 C8 G6 J4 K4 (B 84.70%, B 4.44, 55 visits)
+]TE[1]SBKV[82.45]
+;B[cl]C[Move 99
+
+* Win rate: B 82.81%
+* Score lead: B 3.97
+* Win rate drop: B ⇣-0.36%
+* Score drop: B ⇣0.54
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BC8 L14 M13 L13 M12 M15 K8 G6 L15 N15 J16 M11 L11 N12 M10 N11 (B 82.84%, B 4.67, 1215 visits)
+2. BK8 G6 C8 B7 B8 C7 D7 D8 E7 C9 J4 K4 G7 (B 82.07%, B 4.22, 231 visits)
+]TE[1]SBKV[82.81]
+;W[cm]C[Move 100
+
+* Win rate: B 82.07%
+* Score lead: B 5.21
+* Win rate drop: W ⇣-0.74%
+* Score drop: W ⇣1.24
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WG6 B9 B10 A16 D8 D7 C9 B8 C7 B7 E7 D6 (B 81.53%, B 3.56, 715 visits)
+2. WL14 M13 L13 M12 M15 L15 N15 J16 L11 K8 J9 K10 M11 (B 82.56%, B 4.95, 342 visits)
+3. WH11 J11 G6 F7 B8 B7 B9 G7 H5 G5 F6 E6 (B 83.32%, B 4.17, 231 visits)
+]TE[1]SBKV[82.07]
+;B[bl]C[Move 101
+
+* Win rate: B 80.35%
+* Score lead: B 3.87
+* Win rate drop: B ⇣1.72%
+* Score drop: B ⇣1.34
+* Visits: 2001
+* KataGo choice no. 3
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BB7 D8 D7 C6 D9 C11 A16 E8 C9 B6 E9 D6 E7 F8 E6 F9 (B 83.78%, B 5.06, 691 visits)
+2. BD8 B8 B9 B7 G7 G8 C9 B10 D10 A9 F7 (B 81.27%, B 5.72, 708 visits)
+3. BB8 D8 B7 D6 C6 D7 G7 G8 F8 G6 F7 F6 E6 E5 (B 80.55%, B 3.78, 145 visits)
+]TE[1]SBKV[80.35]
+;W[dl]C[Move 102
+
+* Win rate: B 81.07%
+* Score lead: B 4.05
+* Win rate drop: W ⇣0.72%
+* Score drop: W ⇣0.18
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WD8 D7 E8 K8 K7 N9 F5 F6 E6 C6 G6 F4 N12 O13 O12 P12 (B 80.02%, B 3.81, 1697 visits)
+2. WH11 J11 D8 B7 D6 C6 D7 G7 G8 F7 F8 (B 82.08%, B 4.15, 94 visits)
+]TE[1]SBKV[81.07]
+;B[dm]C[Move 103
+
+* Win rate: B 81.19%
+* Score lead: B 4.17
+* Win rate drop: B ⇣-0.12%
+* Score drop: B ⇣-0.12
+* Visits: 2001
+* KataGo choice no. 2
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BB7 D6 C6 D7 G7 G8 F7 F8 K8 J9 K10 K7 O13 F5 (B 81.75%, B 4.20, 1024 visits)
+2. BD7 E8 K8 K7 N9 F5 F6 E6 C6 G6 F4 N12 (B 80.02%, B 3.79, 861 visits)
+]TE[1]SBKV[81.19]
+;W[el]C[Move 104
+
+* Win rate: B 80.33%
+* Score lead: B 3.92
+* Win rate drop: W ⇣-0.86%
+* Score drop: W ⇣-0.25
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WE8 K8 B7 J4 K4 K7 J6 E7 F7 C6 B6 B5 F5 (B 80.65%, B 4.10, 1397 visits)
+2. WN8 M8 E8 N9 B7 E7 F7 C6 B6 (B 82.91%, B 4.35, 78 visits)
+3. WK13 J13 E8 E7 F7 F6 F8 N12 (B 82.72%, B 4.29, 30 visits)
+]TE[1]SBKV[80.33]
+;B[em]C[Move 105
+
+* Win rate: B 76.52%
+* Score lead: B 2.71
+* Win rate drop: B ⇣3.81%
+* Score drop: B ⇣1.21
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BN13 M11 K8 K7 N9 L14 L13 K13 M13 K12 K14 J13 H13 J11 K17 O11 (B 81.65%, B 4.14, 461 visits)
+2. BK8 K7 N9 F5 F6 E6 C6 G6 F4 N12 O13 O12 P12 Q12 P11 (B 81.08%, B 4.07, 883 visits)
+]SBKV[76.52]
+;W[fm]C[Move 106
+
+* Win rate: B 76.38%
+* Score lead: B 2.88
+* Win rate drop: W ⇣-0.14%
+* Score drop: W ⇣0.16
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WF7 C6 L14 L13 M13 K13 N14 M12 M15 K8 K7 M11 C11 C15 N8 O7 (B 76.12%, B 2.62, 1816 visits)
+]TE[1]SBKV[76.38]
+;B[fn]C[Move 107
+
+* Win rate: B 74.93%
+* Score lead: B 3.18
+* Win rate drop: B ⇣1.46%
+* Score drop: B ⇣-0.30
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BF8 F9 G8 C6 D6 G7 C5 H9 N13 M11 O12 N10 N8 (B 77.36%, B 3.29, 848 visits)
+2. BC6 L14 L13 M13 K13 N14 M12 M15 N12 C11 A16 F5 F4 H9 K8 K7 (B 76.31%, B 2.57, 931 visits)
+]TE[1]SBKV[74.93]
+;W[gn]C[Move 108
+
+* Win rate: B 74.33%
+* Score lead: B 3.06
+* Win rate drop: W ⇣-0.59%
+* Score drop: W ⇣-0.12
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WG6 F8 G7 F5 B7 C6 C9 B6 L14 F9 B9 H9 M9 K8 (B 73.74%, B 3.13, 1445 visits)
+]TE[1]SBKV[74.33]
+;B[ds]C[Move 109
+
+* Win rate: B 72.23%
+* Score lead: B 3.24
+* Win rate drop: B ⇣2.10%
+* Score drop: B ⇣-0.17
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BF8 G7 F5 B7 C6 C9 B6 N8 M11 N13 M13 M12 (B 74.53%, B 3.13, 1376 visits)
+2. BF5 C6 F8 G7 D6 D5 E6 C9 F9 E10 H9 B6 C5 M2 K8 N3 (B 73.89%, B 2.88, 601 visits)
+]SBKV[72.23]
+;W[er]C[Move 110
+
+* Win rate: B 75.15%
+* Score lead: B 3.46
+* Win rate drop: W ⇣2.92%
+* Score drop: W ⇣0.23
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WE2 C2 D2 B1 E1 F8 G7 D10 C9 C11 E9 B10 F5 D6 F4 N13 (B 72.37%, B 3.38, 1302 visits)
+2. WD2 F8 G7 F5 C6 D6 D5 E6 C9 F9 E10 H9 B6 C5 M2 K8 (B 71.54%, B 2.78, 619 visits)
+]SBKV[75.15]
+;B[fl]C[Move 111
+
+* Win rate: B 78.29%
+* Score lead: B 3.97
+* Win rate drop: B ⇣-3.14%
+* Score drop: B ⇣-0.51
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BF8 G7 D10 C9 C11 E9 B10 F5 D6 F4 C2 D2 B1 E1 N13 E10 (B 75.94%, B 3.58, 1567 visits)
+]TE[1]SBKV[78.29]
+;W[gm]C[Move 112
+
+* Win rate: B 77.66%
+* Score lead: B 3.72
+* Win rate drop: W ⇣-0.64%
+* Score drop: W ⇣-0.25
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. WG7 D10 C9 C11 E9 B10 F5 D6 F4 C2 D2 B1 E10 N13 E1 B9 (B 78.07%, B 3.97, 1707 visits)
+2. WC11 A16 G7 F5 C9 C6 L14 F9 E10 H9 G10 (B 80.02%, B 3.08, 181 visits)
+]TE[1]SBKV[77.66]
+;B[dj]C[Move 113
+
+* Win rate: B 79.08%
+* Score lead: B 3.89
+* Win rate drop: B ⇣-1.43%
+* Score drop: B ⇣-0.17
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+* White bad moves: #114 ⇣11.99%
+
+The proposed variations
+
+1. BD10 C9 C11 E9 B10 F5 D6 F4 C2 D2 B1 E10 N13 E1 B9 M11 (B 79.00%, B 3.91, 1553 visits)
+]TE[1]SBKV[79.08]
+(;W[ci]C[Move 114
+
+* Win rate: B 91.08%
+* Score lead: B 9.76
+* Win rate drop: W ⇣11.99%
+* Score drop: W ⇣5.87
+* Visits: 2001
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+
+The proposed variations
+
+1. WC9 C11 E9 B10 F5 D6 F4 C2 D2 B1 E1 N13 E10 B9 M11 L13 (B 78.18%, B 3.39, 1288 visits)
+2. WE9 C9 F5 D6 B10 C11 E10 D9 N12 L13 F4 C2 D2 B1 (B 79.10%, B 3.90, 308 visits)
+]BM[1]SBKV[91.08]
+;B[di]C[Move 115
+
+* Win rate: B 91.74%
+* Score lead: B 9.71
+* Win rate drop: B ⇣-0.66%
+* Score drop: B ⇣0.05
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+
+The proposed variations
+
+1. BD11 E9 C9 F5 C6 L14 L13 M13 K13 N14 F4 M12 G10 H11 (B 91.79%, B 9.95, 1938 visits)
+]TE[1]SBKV[91.74]
+;W[ek]C[Move 116
+
+* Win rate: B 93.29%
+* Score lead: B 8.76
+* Win rate drop: W ⇣1.55%
+* Score drop: W ⇣-0.95
+* Visits: 2001
+* KataGo top choice
+
+Bad moves left
+
+* Black bad moves: #117 ⇣6.38%
+
+The proposed variations
+
+1. WE9 C9 F5 C6 L14 L13 M13 K13 N14 F4 M11 G10 H11 (B 91.75%, B 8.06, 708 visits)
+2. WA15 C15 A16 A14 A13 A17 C9 D9 A11 A14 E9 F10 F5 F9 F4 A9 (B 91.33%, B 11.68, 473 visits)
+3. WC9 D9 E9 B9 F5 C6 E10 N13 M11 (B 91.51%, B 12.56, 377 visits)
+4. WF9 E9 G8 D9 F5 F8 A14 A15 B9 (B 92.25%, B 9.13, 172 visits)
+5. WE6 D6 C9 D9 E9 B9 B10 A10 B11 C6 E10 A16 (B 91.34%, B 12.50, 50 visits)
+6. WD6 E6 C9 D9 E9 (B 92.39%, B 14.37, 5 visits)
+]TE[1]SBKV[93.29]
+(;B[dk]C[Move 117
+
+* Win rate: B 86.91%
+* Score lead: B 6.43
+* Win rate drop: B ⇣6.38%
+* Score drop: B ⇣2.33
+* Visits: 2001
+
+The proposed variations
+
+1. BC9 A15 C15 F5 C6 F4 E6 E5 B7 G5 N13 L14 (B 93.91%, B 8.92, 1796 visits)
+]BM[1]SBKV[86.91]
+;W[fo]C[Move 118
+
+* Win rate: B 86.50%
+* Score lead: B 6.16
+* Win rate drop: W ⇣-0.41%
+* Score drop: W ⇣-0.28
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. WF5 C6 A14 A16 A10 F4 D6 B7 N8 J16 K17 N12 (B 86.51%, B 5.91, 1381 visits)
+2. WA15 C15 F5 D6 F4 A16 K16 K15 J16 N13 (B 87.74%, B 7.89, 281 visits)
+]TE[1]SBKV[86.50]
+;B[en]C[Move 119
+
+* Win rate: B 86.72%
+* Score lead: B 12.04
+* Win rate drop: B ⇣-0.23%
+* Score drop: B ⇣-5.88
+* Visits: 2001
+
+The proposed variations
+
+1. BC6 A14 A16 A10 F4 D6 B7 L14 F9 M13 G10 N8 M8 M2 N2 J4 (B 87.39%, B 5.73, 1610 visits)
+]TE[1]SBKV[86.72]
+;W[eo]C[Move 120
+
+* Win rate: B 89.80%
+* Score lead: B 11.47
+* Win rate drop: W ⇣3.07%
+* Score drop: W ⇣-0.56
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WA15 C15 A16 A14 E5 D6 A13 B10 B11 C9 D5 C6 (B 85.16%, B 12.03, 354 visits)
+2. WE5 D6 A15 C15 A16 A14 A13 B10 B11 C9 D5 C6 (B 86.43%, B 12.12, 346 visits)
+3. WC9 B9 A15 C15 A10 F10 F9 G9 G8 (B 87.62%, B 13.97, 185 visits)
+4. WE10 A16 E5 D6 C9 B9 D5 C6 C5 B6 B5 G5 A6 B7 A4 (B 86.82%, B 10.13, 137 visits)
+5. WB7 C6 E5 D6 C9 B9 A15 C15 B10 A10 B11 B6 A16 (B 87.72%, B 13.76, 110 visits)
+6. WF9 C9 E5 D6 G5 F4 D5 C6 C5 (B 88.06%, B 11.04, 191 visits)
+7. WG10 E5 A15 C15 A16 A14 A13 A17 C9 (B 86.24%, B 9.99, 107 visits)
+8. WF10 C6 B9 C9 A14 A16 A9 N13 (B 87.94%, B 9.74, 139 visits)
+]SBKV[89.80]
+;B[dn]C[Move 121
+
+* Win rate: B 88.88%
+* Score lead: B 12.12
+* Win rate drop: B ⇣0.92%
+* Score drop: B ⇣-0.64
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BD6 F9 C9 G5 F4 D5 C6 L14 (B 89.86%, B 11.49, 1992 visits)
+]TE[1]SBKV[88.88]
+;W[do]C[Move 122
+
+* Win rate: B 93.00%
+* Score lead: B 15.90
+* Win rate drop: W ⇣4.12%
+* Score drop: W ⇣3.78
+* Visits: 2001
+* KataGo choice no. 4
+
+The proposed variations
+
+1. WF9 C6 B9 C9 A14 A15 A9 N13 L14 M11 (B 89.42%, B 8.08, 216 visits)
+2. WA15 C15 A16 A14 A13 B10 B11 C9 D5 C6 C5 (B 87.35%, B 13.44, 277 visits)
+3. WG5 F4 A15 C15 A16 A14 A13 B10 B11 C9 A18 A17 (B 89.06%, B 11.77, 267 visits)
+4. WD5 C6 G5 F4 B9 C9 B11 (B 89.58%, B 15.00, 178 visits)
+5. WG10 C9 D5 C6 C5 B6 G5 F4 L14 L13 K13 (B 87.04%, B 11.00, 145 visits)
+6. WE10 C6 A15 C15 A16 A14 A13 A17 A14 B11 B10 A11 A10 C13 A12 C9 (B 89.16%, B 11.07, 178 visits)
+7. WF10 C6 B9 C9 A14 A15 N12 J16 K13 (B 88.69%, B 9.45, 127 visits)
+8. WC9 B9 A15 C15 B10 A10 B11 C6 A16 (B 90.50%, B 15.24, 116 visits)
+9. WB7 C6 A15 C15 A16 A14 A13 B10 B11 C9 A18 A17 A14 (B 87.75%, B 14.58, 156 visits)
+]SBKV[93.00]
+;B[cn]C[Move 123
+
+* Win rate: B 92.24%
+* Score lead: B 16.23
+* Win rate drop: B ⇣0.76%
+* Score drop: B ⇣-0.32
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BC6 A15 C15 A16 A14 C5 B6 A13 A17 A14 B10 G5 F4 L14 G9 (B 93.05%, B 15.92, 1991 visits)
+]TE[1]SBKV[92.24]
+;W[co]C[Move 124
+
+* Win rate: B 94.56%
+* Score lead: B 17.97
+* Win rate drop: W ⇣2.32%
+* Score drop: W ⇣1.74
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WA15 C15 A16 A14 A13 A17 A14 B11 B10 A11 A10 C19 C5 B6 B5 A5 (B 90.74%, B 15.20, 475 visits)
+2. WC5 B6 A15 C15 A16 A14 A13 A17 A14 B10 B5 G5 A6 B7 G4 H5 (B 91.48%, B 17.86, 487 visits)
+3. WB9 C9 B11 A10 A14 A16 A9 G5 H5 G4 (B 93.77%, B 12.51, 280 visits)
+4. WC9 B9 E10 G5 B10 A10 B11 A16 B6 B7 C5 (B 93.05%, B 15.50, 145 visits)
+5. WE10 A16 G5 F4 C5 B6 L14 L13 M13 (B 92.09%, B 15.91, 116 visits)
+6. WB10 A14 G5 C5 A13 (B 93.38%, B 15.43, 47 visits)
+]SBKV[94.56]
+;B[bn]C[Move 125
+
+* Win rate: B 94.24%
+* Score lead: B 18.31
+* Win rate drop: B ⇣0.33%
+* Score drop: B ⇣-0.35
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BB6 A15 C15 A16 A14 A13 A17 A14 B10 B11 C9 B5 G5 A6 B7 A4 (B 94.58%, B 17.97, 1990 visits)
+]TE[1]SBKV[94.24]
+;W[ho]C[Move 126
+
+* Win rate: B 98.26%
+* Score lead: B 11.48
+* Win rate drop: W ⇣4.03%
+* Score drop: W ⇣-6.83
+* Visits: 2001
+
+The proposed variations
+
+1. WA15 C15 A16 A14 A13 A17 A14 B10 B11 C9 B5 G5 A6 B7 A4 (B 92.89%, B 17.78, 650 visits)
+2. WB5 G5 G4 A5 H5 F4 A10 A14 A13 A11 B11 (B 94.64%, B 23.27, 300 visits)
+3. WB9 C9 G5 F4 A14 A15 A9 G9 H9 H10 J9 (B 96.04%, B 12.36, 277 visits)
+4. WA10 C9 A14 A16 G5 F4 B10 J16 K17 G9 (B 94.87%, B 14.57, 183 visits)
+]SBKV[98.26]
+;B[fp]C[Move 127
+
+* Win rate: B 98.52%
+* Score lead: B 12.74
+* Win rate drop: B ⇣-0.26%
+* Score drop: B ⇣-1.26
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BF4 A14 A16 B9 J16 K17 N12 N8 M8 N9 (B 98.38%, B 11.40, 1713 visits)
+2. BG5 A15 C15 A16 A14 A13 A17 A14 B10 G4 F4 L14 L13 K13 (B 96.31%, B 15.42, 236 visits)
+]TE[1]SBKV[98.52]
+;W[ae]C[Move 128
+
+* Win rate: B 98.63%
+* Score lead: B 11.43
+* Win rate drop: W ⇣0.11%
+* Score drop: W ⇣-1.30
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WA14 A16 B9 J16 K17 N12 Q12 R2 (B 98.61%, B 9.97, 512 visits)
+2. WA15 C15 A14 A16 A10 J16 K17 N13 Q12 R2 (B 97.65%, B 15.04, 355 visits)
+3. WL14 G9 E10 A16 C9 L13 (B 98.59%, B 17.29, 148 visits)
+4. WE10 A16 L14 L13 M13 K13 N14 (B 98.93%, B 18.41, 76 visits)
+5. WB9 A14 A13 C9 B11 A10 A15 C15 (B 98.12%, B 16.77, 101 visits)
+6. WA10 A14 A13 C9 A15 C15 B10 A11 (B 98.09%, B 16.97, 92 visits)
+7. WK13 J13 K16 K15 N12 F10 G9 (B 99.24%, B 19.07, 54 visits)
+8. WN8 M11 M12 N12 L11 M10 (B 99.14%, B 18.89, 47 visits)
+9. WA16 A15 B9 A11 A10 C9 A14 C15 (B 98.40%, B 13.71, 147 visits)
+10. WH11 J11 L14 L13 K13 M13 (B 99.17%, B 18.02, 50 visits)
+]TE[1]SBKV[98.63]
+;B[ce]C[Move 129
+
+* Win rate: B 98.66%
+* Score lead: B 14.19
+* Win rate drop: B ⇣-0.03%
+* Score drop: B ⇣-2.75
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BC15 A14 A16 A10 K16 K17 J17 J18 Q12 P12 P11 O12 (B 98.72%, B 11.45, 1984 visits)
+]TE[1]SBKV[98.66]
+;W[af]C[Move 130
+
+* Win rate: B 98.88%
+* Score lead: B 10.31
+* Win rate drop: W ⇣0.23%
+* Score drop: W ⇣-3.88
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. WA14 A16 A10 K16 K17 J17 J18 Q12 P12 (B 98.82%, B 10.71, 346 visits)
+2. WA16 A14 A13 A17 B9 C9 B11 A10 A14 C19 N12 J16 (B 97.72%, B 18.37, 265 visits)
+3. WL14 L13 M13 K13 N14 M15 K15 K16 J15 (B 98.94%, B 17.12, 127 visits)
+4. WB10 A11 A16 A14 A13 A17 A14 C19 E10 M12 (B 98.91%, B 19.20, 94 visits)
+5. WB9 A14 A13 C9 B11 A10 A16 A17 A14 C19 N12 J16 (B 98.22%, B 14.71, 238 visits)
+6. WA10 A14 A13 B9 A16 A17 A14 C19 (B 98.39%, B 16.50, 118 visits)
+7. WH11 J11 L14 L13 K13 M13 K14 (B 98.80%, B 17.54, 62 visits)
+8. WK13 J13 K16 K15 N12 J16 K17 (B 98.99%, B 18.44, 69 visits)
+9. WN8 F10 H11 K12 E10 (B 98.84%, B 17.93, 63 visits)
+10. WN12 A16 K13 J13 J16 (B 99.00%, B 17.33, 48 visits)
+]TE[1]SBKV[98.88]
+;B[ad]C[Move 131
+
+* Win rate: B 98.90%
+* Score lead: B 10.39
+* Win rate drop: B ⇣-0.02%
+* Score drop: B ⇣-0.08
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BA16 B9 K16 K17 J17 J18 R2 S8 R9 N8 (B 98.91%, B 10.30, 1526 visits)
+2. BD19 B9 E19 J16 F10 N8 M8 (B 98.42%, B 10.29, 397 visits)
+3. BF19 G19 A16 B9 J16 K17 N12 Q12 (B 97.73%, B 10.18, 58 visits)
+]TE[1]SBKV[98.90]
+;W[aj]C[Move 132
+
+* Win rate: B 98.88%
+* Score lead: B 9.80
+* Win rate drop: W ⇣-0.02%
+* Score drop: W ⇣-0.59
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. WA10 K16 K17 J17 J18 Q12 P12 Q11 N13 (B 98.95%, B 10.04, 722 visits)
+2. WB9 K16 K17 J17 J18 Q12 P12 Q11 N13 (B 98.84%, B 10.20, 675 visits)
+3. WK16 B10 K13 J13 K14 K15 L15 (B 99.09%, B 14.37, 165 visits)
+4. WH11 J16 B9 J11 K17 A10 (B 98.80%, B 13.31, 164 visits)
+5. WL14 L13 B9 A9 M13 (B 99.08%, B 18.89, 30 visits)
+6. WN8 J16 A10 A11 B9 K17 (B 99.04%, B 17.91, 25 visits)
+7. WF9 B10 L14 L13 M13 K13 (B 99.19%, B 16.78, 34 visits)
+8. WR12 S12 B9 A12 A10 C9 (B 99.00%, B 16.76, 32 visits)
+9. WG9 B10 K13 J13 L14 (B 99.16%, B 16.76, 25 visits)
+10. WN12 J16 K17 Q12 P12 (B 99.04%, B 20.86, 13 visits)
+]TE[1]SBKV[98.88]
+;B[mg]C[Move 133
+
+* Win rate: B 98.97%
+* Score lead: B 9.89
+* Win rate drop: B ⇣-0.09%
+* Score drop: B ⇣-0.09
+* Visits: 2001
+* KataGo choice no. 9
+
+The proposed variations
+
+1. BK16 K17 J17 J18 Q12 P12 P11 (B 99.10%, B 10.58, 148 visits)
+2. BJ16 K17 N12 N8 M8 O7 N6 (B 99.03%, B 9.82, 167 visits)
+3. BA11 B9 K16 K17 J17 J18 R2 N8 (B 98.75%, B 9.23, 148 visits)
+4. BC2 D2 K16 K17 J17 J18 Q12 P12 (B 98.93%, B 9.89, 128 visits)
+5. BQ12 P12 J16 K17 N12 P11 N10 (B 98.98%, B 10.16, 103 visits)
+6. BO13 K16 K15 J16 Q12 N8 M8 (B 99.00%, B 10.38, 114 visits)
+7. BC9 B10 K16 K17 J17 J18 R2 (B 98.84%, B 9.08, 87 visits)
+8. BG9 K16 K15 J16 N13 Q12 R2 (B 98.63%, B 8.86, 77 visits)
+9. BN13 K16 K15 J16 Q12 P12 P13 O13 (B 98.97%, B 9.93, 78 visits)
+10. BR2 N8 J16 K17 R6 S6 (B 98.55%, B 10.34, 78 visits)
+]TE[1]SBKV[98.97]
+;W[li]C[Move 134
+
+* Win rate: B 98.91%
+* Score lead: B 11.53
+* Win rate drop: W ⇣-0.06%
+* Score drop: W ⇣1.64
+* Visits: 2001
+
+The proposed variations
+
+1. WN8 N9 O7 N6 K16 K15 J16 M8 Q12 (B 98.96%, B 9.64, 184 visits)
+2. WK16 K15 J16 Q12 P12 P13 N8 M8 (B 98.97%, B 9.60, 273 visits)
+3. WQ12 K16 K17 R2 S8 J17 J18 S11 R11 R10 (B 98.95%, B 9.75, 215 visits)
+4. WH11 J11 Q12 J16 K17 R2 Q7 (B 98.87%, B 10.36, 109 visits)
+5. WR12 Q12 K16 P12 R9 P15 K15 (B 99.13%, B 11.10, 83 visits)
+6. WR15 S15 Q12 J16 K17 R12 R11 Q11 R10 P11 O14 (B 98.92%, B 10.13, 73 visits)
+7. WQ11 R12 K16 K15 J16 Q12 N8 M8 (B 98.99%, B 10.14, 81 visits)
+8. WJ16 Q12 P12 P13 O13 (B 99.02%, B 10.04, 72 visits)
+9. WH13 J16 K17 Q12 P12 P13 O13 (B 99.01%, B 10.98, 58 visits)
+10. WL14 K16 M15 L15 N15 L13 K17 (B 99.03%, B 12.32, 38 visits)
+]TE[1]SBKV[98.91]
+;B[nh]C[Move 135
+
+* Win rate: B 98.99%
+* Score lead: B 12.08
+* Win rate drop: B ⇣-0.07%
+* Score drop: B ⇣-0.55
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. BN9 O12 N12 N11 O11 L14 K16 (B 99.02%, B 12.28, 123 visits)
+2. BO12 H11 J11 M9 M8 L8 N8 K9 (B 99.03%, B 11.77, 203 visits)
+3. BJ16 K17 N9 O12 Q12 P12 Q11 O10 (B 99.04%, B 11.39, 177 visits)
+4. BK16 H11 K12 O12 Q12 N8 (B 98.95%, B 11.39, 169 visits)
+5. BQ12 N8 N9 O7 N6 P12 P13 P11 (B 98.98%, B 11.57, 139 visits)
+6. BA11 B9 J16 K17 N9 O12 (B 98.61%, B 11.07, 96 visits)
+7. BO11 L14 K16 O12 N12 N11 N9 (B 98.90%, B 12.14, 108 visits)
+8. BC2 D2 B1 E1 O12 M9 M8 L8 (B 98.99%, B 12.10, 102 visits)
+9. BN8 O12 J16 L14 K17 (B 98.81%, B 11.82, 99 visits)
+10. BG9 K16 K15 J16 O11 (B 98.78%, B 10.86, 65 visits)
+]TE[1]SBKV[98.99]
+;W[kf]C[Move 136
+
+* Win rate: B 98.78%
+* Score lead: B 12.66
+* Win rate drop: W ⇣-0.21%
+* Score drop: W ⇣0.58
+* Visits: 2001
+* KataGo choice no. 6
+
+The proposed variations
+
+1. WN8 N10 H11 J11 N11 O11 M9 (B 98.94%, B 11.60, 193 visits)
+2. WM9 M8 P11 N9 O11 G9 K16 (B 98.97%, B 12.78, 210 visits)
+3. WH11 J11 N8 N10 N11 O11 M9 (B 99.01%, B 11.68, 191 visits)
+4. WK16 N10 R12 S12 S11 K15 J16 (B 99.13%, B 11.74, 189 visits)
+5. WR12 S12 Q11 N10 S11 J16 K17 (B 98.92%, B 11.67, 140 visits)
+6. WL14 K16 H11 J11 N10 Q12 (B 98.90%, B 12.76, 166 visits)
+7. WK13 J16 J13 H13 H12 G13 G12 F12 E12 (B 98.90%, B 12.60, 136 visits)
+8. WN10 N8 L14 Q12 M13 M15 K15 (B 98.82%, B 12.19, 115 visits)
+9. WQ11 N10 R12 S12 S11 J16 K17 (B 99.15%, B 11.52, 85 visits)
+10. WR15 S15 Q12 N10 K16 K15 J16 (B 99.19%, B 12.77, 64 visits)
+]TE[1]SBKV[98.78]
+;B[id]C[Move 137
+
+* Win rate: B 98.61%
+* Score lead: B 12.85
+* Win rate drop: B ⇣0.17%
+* Score drop: B ⇣-0.19
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. BK16 H11 J11 N10 Q12 N8 M8 O7 (B 99.03%, B 13.12, 307 visits)
+2. BJ16 H11 J11 M9 M8 L8 N8 K9 L10 (B 98.66%, B 12.71, 263 visits)
+3. BN10 M13 M15 K15 K16 J15 O15 N15 N14 O14 Q12 G9 P14 O16 (B 98.73%, B 12.80, 264 visits)
+4. BQ12 H11 J11 K13 J13 K15 (B 98.70%, B 11.73, 118 visits)
+5. BA11 B9 K16 M15 L15 N15 L13 K17 (B 98.22%, B 12.74, 118 visits)
+6. BK15 M9 M8 L8 N8 K9 L10 K10 (B 98.78%, B 11.67, 89 visits)
+7. BG9 K16 K15 L15 M15 M13 N14 M9 M8 (B 98.09%, B 10.27, 54 visits)
+8. BC2 M13 B1 H11 J11 M9 G9 (B 98.32%, B 12.32, 92 visits)
+9. BL15 J16 N10 N8 K8 J9 (B 98.82%, B 10.64, 82 visits)
+10. BK14 M9 M8 L8 N8 K9 L10 (B 98.95%, B 11.10, 90 visits)
+]TE[1]SBKV[98.61]
+;W[lk]C[Move 138
+
+* Win rate: B 98.52%
+* Score lead: B 12.80
+* Win rate drop: W ⇣-0.09%
+* Score drop: W ⇣-0.06
+* Visits: 2001
+* KataGo choice no. 3
+
+The proposed variations
+
+1. WH11 J11 N10 Q12 M13 N14 N8 M8 O7 (B 98.37%, B 12.41, 281 visits)
+2. WM13 M15 K17 N10 K16 K15 N14 N15 O14 L15 (B 98.50%, B 12.66, 249 visits)
+3. WM9 K17 N8 G14 H11 F12 E12 E11 (B 98.61%, B 12.73, 261 visits)
+4. WN10 Q12 M13 N14 N8 M8 O8 (B 98.74%, B 12.79, 163 visits)
+5. WH13 G13 H12 J13 M13 N14 N10 (B 98.63%, B 12.66, 169 visits)
+6. WK17 N10 N8 M10 R12 S12 S11 R2 S13 (B 99.35%, B 13.84, 103 visits)
+7. WN8 N10 N11 O11 M9 M10 O7 (B 98.97%, B 13.70, 96 visits)
+8. WK14 K15 M9 K17 N8 (B 99.01%, B 14.52, 62 visits)
+9. WK16 K15 K17 N10 N8 M10 R12 S12 (B 99.38%, B 14.41, 54 visits)
+10. WM15 L15 N15 L13 K17 R2 S8 (B 99.57%, B 16.65, 41 visits)
+]TE[1]SBKV[98.52]
+;B[ll]C[Move 139
+
+* Win rate: B 98.55%
+* Score lead: B 13.76
+* Win rate drop: B ⇣-0.03%
+* Score drop: B ⇣-0.96
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. BK17 H11 G14 J11 F12 G12 (B 98.70%, B 12.86, 294 visits)
+2. BM8 M13 N14 L8 N8 K9 L10 K10 K8 K11 K7 (B 98.49%, B 13.58, 361 visits)
+3. BL10 O11 M10 M13 N14 N10 (B 98.74%, B 12.57, 203 visits)
+4. BQ12 M13 N14 N8 K17 K15 K16 O15 (B 98.48%, B 11.00, 105 visits)
+5. BA11 B9 K17 N8 G14 H11 F10 (B 98.33%, B 11.84, 129 visits)
+6. BC2 D2 K17 K15 K16 N15 G14 M15 (B 98.33%, B 12.29, 103 visits)
+7. BN8 M13 N14 H11 J11 M8 L15 (B 97.91%, B 10.36, 78 visits)
+8. BC9 M13 M15 K16 K15 K17 L15 N8 (B 97.83%, B 11.12, 55 visits)
+9. BH17 J18 L10 O11 Q12 (B 98.26%, B 9.65, 40 visits)
+10. BK8 M13 M15 K16 K15 (B 97.97%, B 11.29, 58 visits)
+]TE[1]SBKV[98.55]
+;W[kl]C[Move 140
+
+* Win rate: B 98.47%
+* Score lead: B 13.41
+* Win rate drop: W ⇣-0.09%
+* Score drop: W ⇣-0.35
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WM13 N14 L8 N8 P11 O11 K11 K9 J11 (B 98.28%, B 13.34, 337 visits)
+2. WL8 N8 M13 N14 P11 O11 K11 K9 J11 (B 98.52%, B 13.69, 433 visits)
+3. WH11 M10 J11 K17 K15 K16 M13 N15 O15 (B 98.53%, B 13.41, 259 visits)
+4. WP11 N10 L8 M10 N8 L10 K17 R11 (B 99.07%, B 13.96, 144 visits)
+5. WH13 M10 J13 K13 L13 K14 K12 H12 (B 98.99%, B 14.33, 146 visits)
+6. WO11 Q12 M13 N14 L8 N8 P12 P11 P13 (B 98.98%, B 14.14, 112 visits)
+7. WK13 M10 J13 H13 H12 G13 G12 H11 F13 L15 (B 99.06%, B 16.04, 79 visits)
+8. WM15 L15 N15 L13 L8 N8 K9 L10 K10 K8 (B 99.46%, B 16.75, 48 visits)
+9. WK16 K15 K17 N9 L15 M15 M13 N14 O11 (B 99.33%, B 16.05, 44 visits)
+10. WK17 N9 K16 K15 L15 M15 M13 N14 O11 (B 99.42%, B 15.13, 53 visits)
+]TE[1]SBKV[98.47]
+;B[ml]C[Move 141
+
+* Win rate: B 98.67%
+* Score lead: B 14.05
+* Win rate drop: B ⇣-0.20%
+* Score drop: B ⇣-0.64
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BN8 K11 K17 K9 G14 F12 L13 (B 98.63%, B 13.73, 1441 visits)
+2. BR6 S6 N8 M13 N14 K11 K17 K15 K16 J15 (B 97.97%, B 12.09, 193 visits)
+3. BK17 N8 G14 K15 K16 J18 K18 (B 97.50%, B 8.74, 23 visits)
+]TE[1]SBKV[98.67]
+;W[lg]C[Move 142
+
+* Win rate: B 98.45%
+* Score lead: B 13.68
+* Win rate drop: W ⇣-0.22%
+* Score drop: W ⇣-0.37
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WK11 K17 K9 G14 K15 K16 (B 98.69%, B 13.30, 214 visits)
+2. WM13 N14 K11 K17 K15 K16 K9 K14 (B 98.47%, B 13.54, 274 visits)
+3. WO6 N6 K11 K8 K7 K17 J11 H11 H12 (B 98.57%, B 13.84, 209 visits)
+4. WK9 L10 M13 N14 K10 K8 K11 K7 J9 L15 K14 (B 99.06%, B 16.09, 192 visits)
+5. WP11 O11 K11 K9 J11 H11 H10 H9 G10 (B 98.76%, B 13.77, 168 visits)
+6. WH13 H12 G13 J13 M13 N15 L15 M15 (B 98.48%, B 13.12, 196 visits)
+7. WH11 J11 M13 N14 O11 Q12 P12 (B 98.63%, B 14.57, 124 visits)
+8. WK13 H11 K9 L10 K10 K8 K11 K7 J9 H9 (B 98.81%, B 14.97, 122 visits)
+9. WK14 K15 K9 L10 K10 K8 K11 K7 (B 98.94%, B 15.38, 60 visits)
+10. WO11 P11 M13 N14 P12 N11 O10 N10 (B 98.79%, B 14.29, 85 visits)
+]TE[1]SBKV[98.45]
+;B[le]C[Move 143
+
+* Win rate: B 98.48%
+* Score lead: B 13.72
+* Win rate drop: B ⇣-0.03%
+* Score drop: B ⇣-0.04
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. BN14 K11 K8 K7 K17 K15 K16 J15 H15 H16 K14 L15 M15 (B 98.63%, B 13.94, 807 visits)
+2. BM15 K17 L10 K16 K15 O11 P12 L15 N14 N12 Q12 (B 98.41%, B 13.50, 590 visits)
+3. BK8 M15 K7 Q12 G9 J4 J3 M2 (B 98.21%, B 10.99, 104 visits)
+4. BL15 N14 M15 N12 O13 O14 N11 K9 (B 97.17%, B 9.44, 35 visits)
+5. BG9 M15 K8 K7 K9 J4 Q12 (B 97.81%, B 10.36, 81 visits)
+6. BK13 L13 N15 L15 K16 M15 O15 P12 (B 97.90%, B 12.26, 69 visits)
+7. BK9 M15 G9 H11 J11 H13 J13 (B 97.20%, B 10.10, 31 visits)
+8. BF10 M15 G9 R12 S12 (B 97.09%, B 8.16, 26 visits)
+]TE[1]SBKV[98.48]
+;W[ji]C[Move 144
+
+* Win rate: B 98.77%
+* Score lead: B 14.17
+* Win rate drop: W ⇣0.29%
+* Score drop: W ⇣0.45
+* Visits: 2001
+* KataGo choice no. 5
+
+The proposed variations
+
+1. WK17 L10 K16 K15 O11 P12 M10 G9 H9 H10 J9 (B 98.38%, B 13.30, 414 visits)
+2. WK16 K15 K17 L10 O11 P12 M10 G9 H9 H10 J9 (B 98.47%, B 13.77, 405 visits)
+3. WO6 N6 K17 L10 O11 N11 K16 K15 N14 L15 (B 98.30%, B 13.18, 196 visits)
+4. WK9 L10 K17 K8 K7 O14 K16 (B 98.99%, B 15.96, 110 visits)
+5. WK11 K17 O14 G14 K9 J18 (B 98.71%, B 13.97, 164 visits)
+6. WH13 K13 L13 K9 K15 K16 J15 H15 (B 98.70%, B 14.35, 126 visits)
+7. WH11 J11 K17 L10 K16 K15 O11 P12 N12 (B 98.62%, B 14.15, 128 visits)
+8. WO11 K17 P12 O15 N15 N14 O14 G14 (B 98.86%, B 14.78, 103 visits)
+9. WP11 K17 O14 G14 J18 K18 (B 98.88%, B 14.88, 74 visits)
+10. WN14 N15 O15 O14 K16 K15 K17 L15 K11 K9 J11 (B 99.05%, B 16.19, 48 visits)
+]TE[1]SBKV[98.77]
+;B[nf]C[Move 145
+
+* Win rate: B 96.61%
+* Score lead: B 7.68
+* Win rate drop: B ⇣2.16%
+* Score drop: B ⇣6.49
+* Visits: 2001
+* KataGo choice no. 6
+
+The proposed variations
+
+1. BK17 O14 O15 K15 K14 N15 N14 O13 N12 K9 (B 99.01%, B 14.86, 707 visits)
+2. BK8 K7 K17 O14 F10 K9 G14 J18 K18 (B 98.76%, B 13.52, 369 visits)
+3. BK9 K17 J11 K16 K15 O11 P12 N14 N15 (B 98.13%, B 13.41, 248 visits)
+4. BL10 J11 K17 H11 O15 N15 O14 (B 98.04%, B 11.79, 119 visits)
+5. BA11 B9 K17 O14 F10 K9 G14 (B 97.67%, B 12.48, 69 visits)
+6. BO14 K16 K15 K17 L15 K9 Q12 S8 (B 97.12%, B 8.71, 22 visits)
+7. BM10 K16 K15 K17 K10 O11 P12 N14 N15 (B 97.54%, B 10.46, 40 visits)
+8. BF10 K16 K15 K17 K9 L15 G10 H9 (B 97.57%, B 10.27, 37 visits)
+9. BC2 K16 K15 K17 L15 D2 B1 (B 96.88%, B 10.82, 23 visits)
+]SBKV[96.61]
+;W[jd]C[Move 146
+
+* Win rate: B 96.36%
+* Score lead: B 7.20
+* Win rate drop: W ⇣-0.25%
+* Score drop: W ⇣-0.47
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. WK16 K15 K17 K9 J11 H11 H10 G11 J9 G10 K10 H9 K8 Q12 O15 S3 (B 96.44%, B 7.42, 1206 visits)
+2. WK17 K16 K9 Q12 O6 N6 P15 S8 (B 97.28%, B 8.51, 445 visits)
+3. WO6 K17 O15 N6 K9 Q12 S8 (B 97.95%, B 12.24, 79 visits)
+4. WJ11 K17 O15 Q12 F10 M10 (B 98.50%, B 11.29, 30 visits)
+5. WR15 S15 K16 K15 K17 K8 K7 K9 (B 97.96%, B 11.48, 42 visits)
+6. WO15 K9 J11 H11 H10 G11 (B 98.57%, B 12.14, 23 visits)
+7. WN15 N14 K17 K9 J11 H11 H10 (B 98.43%, B 12.43, 19 visits)
+]TE[1]SBKV[96.36]
+;B[je]C[Move 147
+
+* Win rate: B 96.20%
+* Score lead: B 7.56
+* Win rate drop: B ⇣0.16%
+* Score drop: B ⇣-0.36
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BK15 K17 K9 J11 H11 H10 G11 J9 G10 K10 H9 K8 Q12 O15 S8 S7 (B 96.35%, B 7.51, 894 visits)
+2. BK14 K17 L15 K9 Q12 O6 N6 P15 S8 S7 R8 (B 96.32%, B 6.30, 402 visits)
+3. BL15 K17 K15 K9 Q12 P15 S8 S7 R8 Q7 Q8 Q2 P7 (B 96.78%, B 6.27, 408 visits)
+4. BK13 L13 K15 K17 L15 K9 Q12 P15 S8 S7 R8 Q7 Q8 Q2 P7 P8 (B 96.52%, B 6.22, 191 visits)
+]TE[1]SBKV[96.20]
+;W[jc]C[Move 148
+
+* Win rate: B 96.26%
+* Score lead: B 7.42
+* Win rate drop: W ⇣0.06%
+* Score drop: W ⇣-0.14
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. WK17 K9 J11 H11 H10 G11 J9 Q12 O15 G10 K10 H9 G9 J10 J8 (B 96.20%, B 7.56, 1963 visits)
+2. WB5 A5 K17 K9 (B 98.17%, B 16.06, 4 visits)
+3. A5 (B 98.19%, B 20.57, 1 visits)
+]TE[1]SBKV[96.26]
+;B[jg]C[Move 149
+
+* Win rate: B 96.24%
+* Score lead: B 6.01
+* Win rate drop: B ⇣0.02%
+* Score drop: B ⇣1.40
+* Visits: 2001
+* KataGo choice no. 5
+
+The proposed variations
+
+1. BK9 J11 H11 H10 G11 J9 G10 K10 H9 K8 Q12 O15 S8 S7 (B 96.01%, B 8.48, 452 visits)
+2. BL15 K9 Q12 P15 S8 S7 R8 Q7 Q8 Q2 P7 (B 96.81%, B 6.00, 326 visits)
+3. BK8 K7 L15 K9 Q12 P15 S8 S7 R8 (B 96.76%, B 6.78, 301 visits)
+4. BM10 K9 N9 K10 L15 R12 S12 S11 Q12 R11 Q11 Q10 P10 Q9 R8 (B 96.29%, B 6.67, 227 visits)
+5. BK13 L13 K8 K7 L15 K9 Q12 P15 R9 (B 96.73%, B 6.11, 162 visits)
+6. BL10 J11 M10 H11 L15 Q12 N11 R12 R9 (B 95.10%, B 7.68, 124 visits)
+7. BK14 P11 O11 K9 R9 R12 (B 96.19%, B 6.24, 130 visits)
+8. BA11 B9 L15 K9 C9 B11 Q12 P15 (B 94.61%, B 8.26, 60 visits)
+9. BQ12 L15 F10 O15 G10 S8 K9 (B 94.49%, B 6.39, 34 visits)
+10. BF10 K9 Q12 L15 G11 O15 S8 S7 R8 (B 95.66%, B 6.17, 60 visits)
+]TE[1]SBKV[96.24]
+;W[kg]C[Move 150
+
+* Win rate: B 95.93%
+* Score lead: B 5.80
+* Win rate drop: W ⇣-0.31%
+* Score drop: W ⇣-0.21
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. WL13 K8 K7 L15 K9 Q12 P15 S8 S7 R8 Q7 Q8 P7 R2 P8 P9 (B 96.07%, B 5.94, 1017 visits)
+2. WK9 L13 R12 S12 S11 Q12 R11 Q11 Q10 P10 Q9 R8 (B 97.84%, B 5.97, 278 visits)
+3. WO6 N6 L13 K8 K7 L15 K9 Q12 P15 S8 S7 R8 Q7 (B 96.32%, B 6.35, 393 visits)
+4. WQ11 K9 J11 H11 H10 H9 (B 98.01%, B 8.66, 33 visits)
+5. WR12 K9 J11 H11 H10 H9 G10 G9 H12 F10 G11 (B 97.15%, B 9.47, 77 visits)
+6. WR15 S15 K9 L13 S8 R2 R11 Q12 (B 97.69%, B 8.41, 55 visits)
+7. WQ12 K9 J11 H11 H10 (B 97.87%, B 10.79, 10 visits)
+]TE[1]SBKV[95.93]
+;B[ke]C[Move 151
+
+* Win rate: B 96.09%
+* Score lead: B 5.72
+* Win rate drop: B ⇣-0.16%
+* Score drop: B ⇣0.09
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. BK8 K7 L15 K9 Q12 P15 S8 S7 R8 Q7 Q8 P7 R2 Q2 Q1 S2 (B 96.14%, B 6.28, 660 visits)
+2. BL15 K9 Q12 P15 S8 S7 R8 Q7 Q8 R15 S15 S16 S14 S18 S17 R19 (B 96.04%, B 5.53, 866 visits)
+3. BK9 O6 N6 J11 H11 H10 G11 G10 M10 L15 (B 94.42%, B 7.42, 253 visits)
+]TE[1]SBKV[96.09]
+;W[qh]C[Move 152
+
+* Win rate: B 95.99%
+* Score lead: B 9.27
+* Win rate drop: W ⇣-0.10%
+* Score drop: W ⇣3.55
+* Visits: 2001
+* KataGo choice no. 6
+
+The proposed variations
+
+1. WK9 Q12 P15 S8 S7 R8 Q7 Q8 R15 S15 S16 S14 S18 S17 R19 T16 (B 95.96%, B 5.24, 783 visits)
+2. WO6 N6 K9 Q12 P15 S8 S7 R8 Q7 Q8 Q2 P7 P4 T7 R6 (B 96.04%, B 5.64, 336 visits)
+3. WP11 M10 K9 N9 K10 R11 Q12 S10 O15 F10 Q2 P18 (B 96.57%, B 6.70, 223 visits)
+4. WQ11 Q12 K9 R12 O6 N6 P15 R2 (B 96.56%, B 7.51, 142 visits)
+5. WQ12 R8 S7 R10 Q10 (B 96.16%, B 8.09, 158 visits)
+6. WR12 S12 Q11 S11 K9 N9 Q7 M10 (B 96.17%, B 8.09, 133 visits)
+7. WJ11 Q12 P15 M10 S8 K9 H11 (B 98.03%, B 7.46, 84 visits)
+8. WR15 S15 K9 P15 Q12 P11 R10 (B 96.94%, B 8.22, 37 visits)
+9. WN15 N14 K9 Q12 S8 P15 R11 (B 97.42%, B 7.06, 41 visits)
+10. WP12 O11 K9 R11 O15 R2 (B 96.83%, B 7.46, 34 visits)
+]TE[1]SBKV[95.99]
+;B[jk]C[Move 153
+
+* Win rate: B 96.15%
+* Score lead: B 9.74
+* Win rate drop: B ⇣-0.16%
+* Score drop: B ⇣-0.47
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BK9 R15 S15 S12 S14 J11 H11 H10 M10 O11 P11 P12 (B 96.41%, B 10.03, 815 visits)
+2. BK8 K7 K9 J11 H11 O11 G9 P12 G12 F9 G10 (B 95.23%, B 8.18, 278 visits)
+3. BS12 O11 L10 J11 H11 H10 M10 P12 (B 94.57%, B 6.10, 168 visits)
+4. BR8 Q7 Q8 S8 S9 S7 S12 Q11 (B 95.46%, B 7.31, 97 visits)
+5. BC2 D2 B1 E1 S12 Q11 K9 J11 H11 H10 G11 (B 95.51%, B 7.10, 102 visits)
+6. BM10 K9 N9 K10 S12 S11 Q12 R11 Q11 Q10 P10 (B 95.73%, B 6.00, 75 visits)
+7. BA11 B9 S12 Q11 S11 K9 N9 M10 P15 (B 94.62%, B 6.67, 65 visits)
+]TE[1]SBKV[96.15]
+;W[ii]C[Move 154
+
+* Win rate: B 96.19%
+* Score lead: B 10.15
+* Win rate drop: W ⇣0.05%
+* Score drop: W ⇣0.41
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WR15 S15 S12 S14 J11 H11 O11 P11 P12 N11 O10 N10 N12 M12 (B 95.96%, B 9.50, 365 visits)
+2. WJ11 H11 O11 P12 H10 M10 S12 R15 Q12 P11 H12 G11 G12 G10 (B 96.04%, B 9.63, 712 visits)
+3. WO11 P12 R15 S15 S12 S14 J11 Q12 R9 G9 H11 (B 96.65%, B 10.12, 249 visits)
+4. WS12 R15 J11 H11 H10 M10 O11 P12 Q12 P11 H12 G11 G12 G10 (B 96.39%, B 10.06, 300 visits)
+5. WO6 N6 J11 H11 H10 M10 O11 P12 R15 S15 S12 S14 Q12 P11 H12 G11 (B 96.39%, B 10.18, 258 visits)
+6. WO10 G9 O11 P12 Q12 (B 98.01%, B 12.41, 20 visits)
+7. WN10 G9 P10 H10 J4 (B 97.75%, B 11.84, 20 visits)
+8. WN15 N14 J11 H11 H10 H9 G10 G9 (B 97.93%, B 12.59, 19 visits)
+9. WP10 G9 O11 P12 (B 97.80%, B 11.70, 17 visits)
+]TE[1]SBKV[96.19]
+;B[hi]C[Move 155
+
+* Win rate: B 96.38%
+* Score lead: B 10.20
+* Win rate drop: B ⇣-0.18%
+* Score drop: B ⇣-0.05
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BH11 O11 P12 R15 S15 S12 S14 H10 H9 G10 G9 Q12 P11 H12 F10 (B 96.41%, B 10.32, 1800 visits)
+]TE[1]SBKV[96.38]
+;W[hj]C[Move 156
+
+* Win rate: B 97.00%
+* Score lead: B 10.61
+* Win rate drop: W ⇣0.62%
+* Score drop: W ⇣0.41
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WO11 P12 R15 S15 S12 S14 H10 H9 G10 G9 Q12 P11 H12 (B 95.83%, B 9.82, 482 visits)
+2. WH10 M10 O11 P12 R15 S15 S12 S14 Q12 P11 H12 G11 H13 G10 H9 F10 (B 96.83%, B 10.35, 562 visits)
+3. WO6 N6 H10 H9 G10 G11 G9 F10 F9 M10 O11 P11 O10 (B 96.20%, B 10.11, 376 visits)
+4. WR15 S15 H10 M10 O11 P11 P12 N11 O10 (B 96.52%, B 10.32, 236 visits)
+5. WS12 G9 O11 P11 O10 P12 P10 R15 R10 Q12 P15 (B 96.45%, B 10.88, 145 visits)
+6. WN10 G9 P10 H10 J4 S12 Q11 (B 98.23%, B 13.29, 53 visits)
+7. WH12 H10 H13 K12 O11 P11 O10 Q12 N12 (B 98.25%, B 14.27, 41 visits)
+8. WN15 G9 N14 H10 J4 O11 (B 97.81%, B 13.48, 29 visits)
+9. WP11 N10 H10 M10 H12 G11 J9 (B 97.63%, B 11.47, 36 visits)
+]TE[1]SBKV[97.00]
+;B[hk]C[Move 157
+
+* Win rate: B 97.27%
+* Score lead: B 11.07
+* Win rate drop: B ⇣-0.28%
+* Score drop: B ⇣-0.46
+* Visits: 2001
+* KataGo choice no. 3
+
+The proposed variations
+
+1. BM10 O11 P12 R15 S15 S12 S14 Q12 P11 H12 G11 H13 G10 H9 F10 J9 (B 97.32%, B 11.07, 848 visits)
+2. BG10 H9 M10 O11 P12 Q12 P11 J9 K10 N9 N10 O9 L10 O10 (B 97.04%, B 10.09, 512 visits)
+3. BH9 G10 G11 G9 M10 O11 P12 S12 S13 R15 S15 T13 S14 T14 T16 Q12 (B 96.70%, B 10.61, 501 visits)
+]TE[1]SBKV[97.27]
+;W[gj]C[Move 158
+
+* Win rate: B 97.10%
+* Score lead: B 10.86
+* Win rate drop: W ⇣-0.17%
+* Score drop: W ⇣-0.21
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. WG10 G11 G9 M10 S12 P10 R15 P18 O18 Q19 Q7 Q9 O6 (B 97.26%, B 10.95, 1710 visits)
+2. WO6 G10 N6 M5 M2 N2 N9 P7 N3 M1 L2 O5 O2 (B 97.85%, B 15.37, 158 visits)
+3. WB5 A5 G10 G9 H12 F10 G11 J4 K4 J2 (B 98.71%, B 17.62, 30 visits)
+4. WO11 G10 P11 J4 K4 (B 99.10%, B 22.59, 14 visits)
+5. WR15 G10 S15 J4 K4 J2 (B 98.83%, B 22.90, 8 visits)
+6. WN15 G10 N14 J4 K4 J2 (B 99.27%, B 26.56, 7 visits)
+7. WN6 G10 M5 O6 S12 R15 O10 Q11 (B 98.83%, B 14.12, 49 visits)
+8. WA6 B5 G10 G9 H12 F10 (B 98.77%, B 21.38, 6 visits)
+9. WA5 B5 G10 (B 98.43%, B 21.19, 3 visits)
+10. WH12 G10 (B 99.08%, B 24.76, 2 visits)
+]TE[1]SBKV[97.10]
+;B[gi]C[Move 159
+
+* Win rate: B 97.63%
+* Score lead: B 11.41
+* Win rate drop: B ⇣-0.53%
+* Score drop: B ⇣-0.55
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BG11 G9 M10 O11 P12 S12 S13 P10 N9 N10 Q12 R10 Q9 Q10 R9 P9 (B 97.55%, B 11.20, 1750 visits)
+]TE[1]SBKV[97.63]
+;W[gk]C[Move 160
+
+* Win rate: B 97.38%
+* Score lead: B 10.74
+* Win rate drop: W ⇣-0.25%
+* Score drop: W ⇣-0.67
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. WG9 M10 O11 P12 S12 S13 P10 N9 N10 Q12 R10 Q9 Q10 R9 (B 97.48%, B 10.66, 1088 visits)
+2. WF10 M10 O11 P12 S12 S13 P10 Q12 R10 P15 (B 98.15%, B 12.33, 325 visits)
+3. WH12 G12 G9 M10 O11 P11 O10 P10 O9 (B 98.31%, B 13.66, 171 visits)
+4. WF9 M10 O11 O10 N11 P11 P12 Q11 N12 (B 98.31%, B 14.21, 96 visits)
+5. WJ8 F10 J9 G9 K10 M10 S12 H10 R15 (B 99.34%, B 15.66, 50 visits)
+6. WO6 F10 N6 M5 M2 N2 N3 M1 (B 99.10%, B 18.58, 31 visits)
+7. WK10 J9 G9 M10 K12 F10 F9 E10 G8 H12 O11 (B 97.94%, B 13.55, 69 visits)
+8. WR15 F10 S15 P18 Q19 T18 O18 S16 O11 (B 98.79%, B 17.57, 26 visits)
+9. WG12 H12 G9 M10 O11 P11 O10 P10 O9 P9 (B 98.83%, B 15.46, 43 visits)
+]TE[1]SBKV[97.38]
+;B[lj]C[Move 161
+
+* Win rate: B 97.54%
+* Score lead: B 10.90
+* Win rate drop: B ⇣-0.17%
+* Score drop: B ⇣-0.16
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BM10 O11 P12 S12 S13 P10 N9 N10 Q12 R10 Q9 Q10 R9 P9 (B 97.41%, B 10.77, 1298 visits)
+2. BF10 E10 M10 O11 F12 F9 P11 P10 N10 S12 (B 97.32%, B 10.64, 684 visits)
+]TE[1]SBKV[97.54]
+;W[mj]C[Move 162
+
+* Win rate: B 98.40%
+* Score lead: B 14.08
+* Win rate drop: W ⇣0.85%
+* Score drop: W ⇣3.18
+* Visits: 2001
+* KataGo choice no. 6
+
+The proposed variations
+
+1. WS12 P10 R15 P18 O18 Q19 Q7 Q9 O6 (B 97.58%, B 10.08, 397 visits)
+2. WO11 P12 S12 S13 P10 N9 N10 Q12 R10 Q9 Q10 R9 (B 97.36%, B 10.81, 641 visits)
+3. WR15 S15 S12 O10 S14 P18 O18 Q19 Q2 R6 S6 (B 97.77%, B 10.65, 239 visits)
+4. WN11 F10 F9 O11 N10 (B 98.06%, B 12.80, 120 visits)
+5. WH13 G13 O11 P11 O10 P10 O9 (B 98.41%, B 13.24, 105 visits)
+6. WN10 N9 O11 O10 N11 P11 P12 Q11 P10 (B 98.68%, B 13.93, 66 visits)
+7. WK12 F10 F9 E10 G8 N11 H12 G12 (B 98.31%, B 12.15, 82 visits)
+8. WO6 N9 S12 R15 Q7 Q4 (B 98.98%, B 12.99, 49 visits)
+9. WF12 G13 O11 P11 O10 P10 O9 P9 (B 98.42%, B 12.57, 59 visits)
+10. WH12 G12 O11 P11 O10 P10 O9 (B 98.10%, B 13.65, 65 visits)
+]TE[1]SBKV[98.40]
+;B[mk]C[Move 163
+
+* Win rate: B 98.47%
+* Score lead: B 13.71
+* Win rate drop: B ⇣-0.07%
+* Score drop: B ⇣0.37
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BN9 O11 O10 N11 P11 R15 S15 P12 Q11 S12 S14 Q12 N12 P10 Q10 (B 98.41%, B 14.08, 1508 visits)
+2. BF10 F9 N9 O11 O10 N11 P11 P10 Q10 P12 Q11 (B 98.26%, B 14.12, 490 visits)
+]TE[1]SBKV[98.47]
+;W[kj]C[Move 164
+
+* Win rate: B 98.65%
+* Score lead: B 12.41
+* Win rate drop: W ⇣0.18%
+* Score drop: W ⇣-1.29
+* Visits: 2001
+* KataGo choice no. 4
+
+The proposed variations
+
+1. WR15 S15 S12 O10 S14 P18 O18 Q19 Q2 Q1 R1 Q4 (B 98.68%, B 13.22, 228 visits)
+2. WO11 O10 N11 P11 P12 Q11 R15 S15 S12 S14 Q12 N12 P10 Q10 (B 98.30%, B 13.86, 529 visits)
+3. WS12 O10 R15 S15 S14 P18 O18 Q19 Q2 Q1 R1 Q4 (B 98.39%, B 13.81, 428 visits)
+4. WL10 F10 G8 M9 O11 N12 S12 (B 98.85%, B 12.79, 310 visits)
+5. WH13 G13 O11 O10 N11 P11 P10 Q10 (B 98.98%, B 16.77, 63 visits)
+6. WF12 G13 O11 O10 N11 P11 P10 Q10 O9 (B 99.16%, B 16.58, 55 visits)
+7. WK10 J9 O11 O10 N11 P11 P10 Q10 (B 99.19%, B 15.94, 53 visits)
+8. WN15 F10 F9 E10 G8 N14 (B 98.65%, B 15.26, 68 visits)
+9. WG13 H12 O11 O10 N11 P11 P10 Q10 (B 98.97%, B 15.84, 72 visits)
+10. WG14 H12 O11 O10 N11 P11 (B 98.95%, B 15.43, 42 visits)
+]TE[1]SBKV[98.65]
+;B[lk]C[Move 165
+
+* Win rate: B 98.11%
+* Score lead: B 11.64
+* Win rate drop: B ⇣0.53%
+* Score drop: B ⇣0.77
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. BF10 G8 O10 M9 C2 D2 M10 R15 S15 (B 99.03%, B 13.06, 254 visits)
+2. BM9 S12 R15 O11 O10 N11 P11 P12 Q11 N12 (B 98.32%, B 12.21, 234 visits)
+3. BO10 M9 R6 S6 M10 R15 S15 M9 F10 F9 M10 (B 98.67%, B 12.04, 207 visits)
+4. BQ12 M9 F10 E10 M10 F12 Q11 M9 (B 98.20%, B 11.59, 142 visits)
+5. BA11 B9 C9 A12 M9 O11 O10 (B 98.55%, B 12.19, 132 visits)
+6. BS12 M9 F10 E10 M10 F12 O10 M9 (B 98.67%, B 11.89, 110 visits)
+7. BC2 D2 B1 E1 M9 O11 P12 (B 98.66%, B 12.56, 95 visits)
+8. BC9 B10 F10 F9 E10 G8 (B 98.93%, B 13.08, 93 visits)
+9. BR8 S8 S9 R9 Q8 S10 S7 T9 (B 98.77%, B 12.88, 98 visits)
+10. BA12 B9 M9 O11 P12 (B 98.25%, B 12.29, 58 visits)
+]TE[1]SBKV[98.11]
+;W[jh]C[Move 166
+
+* Win rate: B 98.48%
+* Score lead: B 13.42
+* Win rate drop: W ⇣0.37%
+* Score drop: W ⇣1.78
+* Visits: 2001
+* KataGo choice no. 5
+
+The proposed variations
+
+1. WH13 G13 K10 S12 J9 Q12 R11 Q11 R10 R8 (B 97.72%, B 10.30, 314 visits)
+2. WS12 F10 F9 R15 O11 O10 N11 P11 P12 Q11 N12 O13 K10 (B 98.00%, B 11.76, 398 visits)
+3. WO11 N12 R15 S15 S12 P11 S14 P18 P10 N11 (B 98.33%, B 11.91, 375 visits)
+4. WR15 S15 O11 N12 S12 P11 S14 P18 P10 N11 (B 98.13%, B 11.68, 309 visits)
+5. WK12 F10 H12 G12 K10 J9 F9 N11 J13 H13 K14 G14 J12 (B 98.56%, B 12.83, 204 visits)
+6. WK10 J9 K12 F10 H12 G12 F9 N11 J13 H13 K14 G14 J12 (B 98.51%, B 13.11, 171 visits)
+7. WN12 O11 K12 N11 H13 (B 99.20%, B 15.12, 33 visits)
+8. WH12 G12 G13 H13 F12 H12 O11 (B 99.13%, B 16.57, 20 visits)
+9. WN11 Q11 K10 J9 K12 (B 99.01%, B 14.58, 38 visits)
+10. WN15 N14 O11 O10 N11 P11 P12 (B 98.78%, B 14.38, 34 visits)
+]TE[1]SBKV[98.48]
+;B[fj]C[Move 167
+
+* Win rate: B 98.83%
+* Score lead: B 15.47
+* Win rate drop: B ⇣-0.35%
+* Score drop: B ⇣-2.05
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BF10 F9 N12 H12 G12 J13 H13 K14 G14 K10 J9 F12 G13 (B 98.72%, B 14.68, 624 visits)
+2. BQ12 S12 S13 P12 Q11 P11 Q10 P10 P13 (B 98.66%, B 11.96, 271 visits)
+3. BH12 K10 S12 Q11 S11 N11 F12 J9 R2 (B 97.11%, B 6.93, 65 visits)
+4. BN11 H13 S12 S11 Q12 R11 Q11 Q10 (B 97.55%, B 9.05, 73 visits)
+5. BH13 K10 S12 Q11 S11 N11 F12 J9 (B 97.45%, B 7.31, 60 visits)
+6. BG13 K10 S12 Q11 S11 N11 R2 P10 (B 97.74%, B 8.35, 68 visits)
+7. BS12 Q11 S11 H13 O10 N11 O11 (B 98.50%, B 10.97, 125 visits)
+8. BF12 K10 S12 Q11 S11 Q2 N11 J9 (B 97.96%, B 8.67, 58 visits)
+9. BA11 B9 Q12 P12 Q11 P11 Q10 P10 (B 97.91%, B 11.69, 85 visits)
+10. BR8 S7 Q12 S12 R15 P12 (B 98.35%, B 13.01, 146 visits)
+]TE[1]SBKV[98.83]
+;W[jj]C[Move 168
+
+* Win rate: B 99.03%
+* Score lead: B 16.89
+* Win rate drop: W ⇣0.20%
+* Score drop: W ⇣1.43
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WH12 G12 F9 N12 J13 H13 K14 G14 K10 J9 F12 G13 M12 (B 98.79%, B 15.13, 484 visits)
+2. WK10 J9 H12 G12 F9 N12 J13 H13 K14 G14 F12 G13 M12 (B 98.73%, B 15.62, 449 visits)
+3. WF9 N12 H12 G12 J13 H13 K14 G14 K10 J9 F12 G13 M12 (B 98.87%, B 15.11, 436 visits)
+4. WG8 N12 H12 G12 J13 H13 K14 G14 K10 J9 F12 G13 (B 99.04%, B 16.08, 284 visits)
+5. WE10 N11 H12 G12 J13 H13 K14 G14 F12 G13 (B 99.16%, B 17.59, 118 visits)
+6. WH8 K10 H12 G12 J13 H13 K14 G14 (B 99.32%, B 17.40, 67 visits)
+7. WG12 H12 K10 J9 N12 G8 J4 S12 S11 (B 99.67%, B 22.64, 22 visits)
+8. WH13 G8 J13 J3 J4 (B 99.40%, B 25.45, 19 visits)
+9. WR15 G8 S15 J4 K4 F9 J2 (B 99.19%, B 20.53, 32 visits)
+10. WO11 G8 P11 F9 J4 (B 99.37%, B 22.40, 26 visits)
+]TE[1]SBKV[99.03]
+;B[ik]C[Move 169
+
+* Win rate: B 99.09%
+* Score lead: B 17.10
+* Win rate drop: B ⇣-0.06%
+* Score drop: B ⇣-0.21
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BJ9 H12 G12 J13 H13 G8 N12 K14 G14 F12 G13 M12 J12 R15 (B 99.10%, B 17.17, 1634 visits)
+2. BS12 Q11 J9 F9 N11 H12 S11 O15 (B 98.18%, B 10.57, 123 visits)
+3. BQ12 S12 R15 Q11 P12 R9 J9 F9 (B 98.23%, B 9.25, 84 visits)
+4. BC2 D2 J9 F9 N11 H12 G12 J13 H13 K14 G14 J12 (B 98.06%, B 12.20, 63 visits)
+]TE[1]SBKV[99.09]
+;W[fk]C[Move 170
+
+* Win rate: B 99.16%
+* Score lead: B 17.18
+* Win rate drop: W ⇣0.07%
+* Score drop: W ⇣0.07
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WH12 G12 F9 N12 J13 H13 K14 G14 F12 G13 M12 J12 P10 O10 (B 98.90%, B 17.10, 499 visits)
+2. WF9 N12 S12 R15 P11 O10 Q9 R8 S8 (B 98.98%, B 16.94, 444 visits)
+3. WN12 G8 J4 O11 N11 S12 Q11 R11 Q12 S10 (B 99.46%, B 16.57, 301 visits)
+4. WG8 N12 S12 R15 P11 O10 Q9 R6 (B 99.17%, B 17.27, 305 visits)
+5. WR15 G8 J4 S15 S12 N11 H12 (B 99.34%, B 18.73, 90 visits)
+6. WH13 G8 J4 N11 J13 S12 S11 (B 99.31%, B 21.04, 79 visits)
+7. WS12 G8 J4 N11 H12 G12 J13 H13 K14 (B 99.34%, B 21.68, 40 visits)
+8. WE10 G8 F9 H8 J4 N11 H12 (B 99.61%, B 23.86, 20 visits)
+9. WN11 G8 J4 Q12 S12 R15 (B 99.68%, B 20.50, 30 visits)
+10. WG12 H12 N12 G8 J4 J3 M2 N2 (B 99.71%, B 21.44, 28 visits)
+]TE[1]SBKV[99.16]
+;B[mh]C[Move 171
+
+* Win rate: B 99.31%
+* Score lead: B 18.10
+* Win rate drop: B ⇣-0.15%
+* Score drop: B ⇣-0.93
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BN12 R15 S15 S12 S14 Q10 R8 Q7 Q8 S8 (B 99.27%, B 17.98, 958 visits)
+2. BN11 H12 G12 J13 H13 J12 G14 K14 S12 S11 Q12 R11 R9 S9 (B 99.04%, B 14.95, 354 visits)
+3. BE10 G8 N12 S12 R15 P10 O10 Q7 R2 (B 98.97%, B 16.93, 348 visits)
+4. BQ12 S12 R15 Q11 P12 R9 N11 (B 98.31%, B 9.50, 47 visits)
+5. BO10 H12 G12 J13 H13 K14 G14 F12 J12 (B 98.22%, B 12.34, 84 visits)
+6. BO11 H12 G12 J13 H13 K14 G14 J12 S12 S11 Q12 (B 97.68%, B 11.10, 53 visits)
+7. BS12 N12 O11 N11 Q12 R11 (B 98.53%, B 9.63, 37 visits)
+8. BC9 B10 N11 H12 G12 J13 H13 (B 98.21%, B 11.22, 27 visits)
+9. BC2 D2 N11 H12 G12 J13 H13 K14 G14 (B 98.12%, B 12.47, 24 visits)
+]TE[1]SBKV[99.31]
+;W[hh]C[Move 172
+
+* Win rate: B 99.36%
+* Score lead: B 17.80
+* Win rate drop: W ⇣0.06%
+* Score drop: W ⇣-0.30
+* Visits: 2001
+* KataGo choice no. 2
+
+The proposed variations
+
+1. WR15 S15 S12 S14 P11 O10 Q9 R8 S8 Q8 (B 99.27%, B 16.93, 242 visits)
+2. WH12 G12 J13 H13 K14 G14 F12 G13 M12 J12 S12 R15 Q10 (B 99.22%, B 17.84, 445 visits)
+3. WH13 J13 R15 S15 S12 S14 P10 O10 (B 99.63%, B 20.13, 229 visits)
+4. WS12 R15 Q10 R8 Q7 Q8 S8 P7 R6 (B 99.29%, B 17.45, 260 visits)
+5. WP10 O10 R15 S15 S12 S14 Q9 R6 S6 S7 S8 (B 99.35%, B 17.57, 181 visits)
+6. WP11 O10 R15 S15 S12 S14 Q9 R8 S8 Q8 (B 99.23%, B 17.96, 168 visits)
+7. WQ11 P10 S12 R15 R8 R9 Q9 (B 99.29%, B 17.43, 163 visits)
+8. WQ10 S12 S11 Q12 R11 G13 P18 (B 99.20%, B 18.95, 99 visits)
+9. WN11 P10 H12 G12 J13 H13 K14 G14 F12 G13 (B 99.26%, B 22.11, 50 visits)
+10. WB5 A5 G5 C9 B10 R9 (B 99.51%, B 23.83, 23 visits)
+]TE[1]SBKV[99.36]
+;B[gh]C[Move 173
+
+* Win rate: B 99.36%
+* Score lead: B 17.87
+* Win rate drop: B ⇣0.00%
+* Score drop: B ⇣-0.07
+* Visits: 2001
+* KataGo top choice
+
+The proposed variations
+
+1. BG12 J13 H13 K14 G14 F12 G13 M12 J12 P10 O10 H12 A11 B9 (B 99.43%, B 17.88, 1951 visits)
+]TE[1]SBKV[99.36])(;B[ck]C[A variation of move 117
+
+* Win rate: B 93.91%
+* Score lead: B 8.92
+* Win rate drop: B ⇣-0.62%
+* Score drop: B ⇣-0.16
+* Visits: 1796
+* Sequence: BC9 A15 C15 F5 C6 F4 E6 E5 B7 G5 N13 L14
+]TE[1]SBKV[93.91];W[ae];B[ce];W[fo];B[cn];W[fp];B[en];W[eo];B[bm];W[go];B[mg];W[kf]))(;W[ck]C[A variation of move 114
+
+* Win rate: B 78.18%
+* Score lead: B 3.39
+* Win rate drop: W ⇣-0.91%
+* Score drop: W ⇣-0.50
+* Visits: 1288
+* Sequence: WC9 C11 E9 B10 F5 D6 F4 C2 D2 B1 E1 N13 E10 B9 M11 L13
+]TE[1]SBKV[78.18];B[ci];W[ek];B[bj];W[fo];B[dn];W[fp];B[cr];W[dr];B[bs];W[es];B[mg];W[ej];B[bk];W[li];B[kg])(;W[ek]C[A variation of move 114
+
+* Win rate: B 79.10%
+* Score lead: B 3.90
+* Win rate drop: W ⇣0.01%
+* Score drop: W ⇣0.01
+* Visits: 308
+* Sequence: WE9 C9 F5 D6 B10 C11 E10 D9 N12 L13 F4 C2 D2 B1
+]TE[1]SBKV[79.10];B[ck];W[fo];B[dn];W[bj];B[ci];W[ej];B[dk];W[mh];B[kg];W[fp];B[cr];W[dr];B[bs]))(;W[ln]C[A variation of move 74
+
+* Win rate: B 77.55%
+* Score lead: B 3.37
+* Win rate drop: W ⇣-1.03%
+* Score drop: W ⇣-0.10
+* Visits: 603
+* Sequence: WM6 M8 N3 N5 M5 L3 L9 L8 K9 M9 K11 L13 M12 K12 K8 K7
+]TE[1]SBKV[77.55];B[ll];W[mq];B[mo];W[lo];B[kq];W[kk];B[kl];W[jk];B[lk];W[ji];B[kg];W[lh];B[jh];W[jl];B[jm])(;W[kf]C[A variation of move 74
+
+* Win rate: B 78.33%
+* Score lead: B 3.18
+* Win rate drop: W ⇣-0.24%
+* Score drop: W ⇣-0.29
+* Visits: 154
+* Sequence: WL14 L13 M13 K13 N14 M7 M15 L9 G8 Q7 R6 G10 D8
+]TE[1]SBKV[78.33];B[kg];W[lg];B[jg];W[mf];B[lm];W[le];B[kk];W[gl];B[pm];W[qn];B[gj];W[dl])(;W[kn]C[A variation of move 74
+
+* Win rate: B 78.84%
+* Score lead: B 3.49
+* Win rate drop: W ⇣0.26%
+* Score drop: W ⇣0.02
+* Visits: 266
+* Sequence: WL6 L9 M4 M6 O5 Q7 R8 Q4
+]TE[1]SBKV[78.84];B[kk];W[lp];B[ln];W[no];B[pm];W[ql];B[pp])(;W[mm]C[A variation of move 74
+
+* Win rate: B 78.68%
+* Score lead: B 3.21
+* Win rate drop: W ⇣0.11%
+* Score drop: W ⇣-0.25
+* Visits: 224
+* Sequence: WN7 M6 N6 N5 M7 Q7 R8
+]TE[1]SBKV[78.68];B[ln];W[mn];B[mo];W[lm];B[pm];W[ql])(;W[kj]C[A variation of move 74
+
+* Win rate: B 80.55%
+* Score lead: B 3.76
+* Win rate drop: W ⇣1.98%
+* Score drop: W ⇣0.30
+* Visits: 59
+* Sequence: WL10 L9 M9 L8 M8 M7 N7 M6 N6
+]TE[1]SBKV[80.55];B[kk];W[lk];B[kl];W[ll];B[lm];W[mm];B[ln];W[mn])(;W[mn]C[A variation of move 74
+
+* Win rate: B 79.92%
+* Score lead: B 3.68
+* Win rate drop: W ⇣1.35%
+* Score drop: W ⇣0.21
+* Visits: 110
+* Sequence: WN6 N8 N3 N5 M5 O5 M4 M6 L6 M7 R3
+]TE[1]SBKV[79.92];B[ml];W[mq];B[mo];W[lo];B[no];W[lp];B[ln];W[kn];B[lm];W[qq])(;W[km]C[A variation of move 74
+
+* Win rate: B 79.31%
+* Score lead: B 3.39
+* Win rate drop: W ⇣0.73%
+* Score drop: W ⇣-0.08
+* Visits: 85
+* Sequence: WL7 L9 M5 M3 L3 N8 Q7 P7
+]TE[1]SBKV[79.31];B[kk];W[lo];B[lq];W[kq];B[ml];W[pm];B[om]))(;W[hr]C[A variation of move 70
+
+* Win rate: B 60.36%
+* Score lead: B 0.76
+* Win rate drop: W ⇣-0.68%
+* Score drop: W ⇣-0.09
+* Visits: 1475
+* Sequence: WH2 J3 L14 Q12 P12 E9 C7 E7 M13 P11 O12 G10 B12
+]TE[1]SBKV[60.36];B[iq];W[kf];B[ph];W[oh];B[ek];W[cm];B[em];W[lg];B[oi];W[nh];B[gj];W[bh]))(;B[hr]C[A variation of move 69
+
+* Win rate: B 68.53%
+* Score lead: B 1.90
+* Win rate drop: B ⇣-0.82%
+* Score drop: B ⇣-0.13
+* Visits: 1020
+* Sequence: BH2 L10 L13 M12 K17 M5 B3 B2 B4 A2 M7 N3
+]TE[1]SBKV[68.53];W[kj];B[kg];W[lh];B[jc];W[lo];B[bq];W[br];B[bp];W[ar];B[lm];W[mq])(;B[lh]C[A variation of move 69
+
+* Win rate: B 66.69%
+* Score lead: B 1.38
+* Win rate drop: B ⇣1.02%
+* Score drop: B ⇣0.38
+* Visits: 293
+* Sequence: BM12 H2 J3 Q3 Q2 R2 Q4 R3 M11 L3 L5 N3 O4 M5
+]TE[1]SBKV[66.69];W[hr];B[iq];W[pq];B[pr];W[qr];B[pp];W[qq];B[li];W[kq];B[ko];W[mq];B[np];W[lo])(;B[ph]C[A variation of move 69
+
+* Win rate: B 66.79%
+* Score lead: B 1.63
+* Win rate drop: B ⇣0.91%
+* Score drop: B ⇣0.14
+* Visits: 50
+* Sequence: BQ12 P12 H2 F5 B3 B2 B4 A2 J10 C7
+]TE[1]SBKV[66.79];W[oh];B[hr];W[fo];B[bq];W[br];B[bp];W[ar];B[ij];W[cm]))(;W[me]C[A variation of move 48
+
+* Win rate: B 54.08%
+* Score lead: B 0.17
+* Win rate drop: W ⇣-0.31%
+* Score drop: W ⇣-0.04
+* Visits: 1223
+* Sequence: WN15 M15 N14 J15 L14 G15 F15 K13 L13 J17 M18 H12 E12 K12 F3 K10
+]TE[1]SBKV[54.08];B[le];W[mf];B[ie];W[kf];B[ge];W[fe];B[jg];W[kg];B[ic];W[lb];B[hh];W[eh];B[jh];W[fq];B[jj])(;W[ne]C[A variation of move 48
+
+* Win rate: B 54.70%
+* Score lead: B 0.27
+* Win rate drop: W ⇣0.32%
+* Score drop: W ⇣0.05
+* Visits: 506
+* Sequence: WO15 K14 J12 M13 M12 J17 C3 C4 D3 E3 E2 F2 F3 E4 G2 D2
+]TE[1]SBKV[54.70];B[jf];W[ih];B[lg];W[lh];B[ic];W[cq];B[cp];W[dq];B[eq];W[er];B[fr];W[fq];B[ep];W[gr];B[dr]))
