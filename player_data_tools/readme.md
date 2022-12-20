@@ -33,13 +33,13 @@
     3. Run all cells, and wait for the API requests to conclude. This may take several minutes.
     4. Confirm creation of output files.
 
-### Analyzing single games
+### Analyzing games
 
 **Dependencies:**
 * [KataGo](https://github.com/lightvector/KataGo)
 * [analyze-sgf](https://github.com/9beach/analyze-sgf)
 
-1. Producing analysis:
+1. Producing analysis for single game:
     1. Open `game_analysis.ipynb`.
     2. Modify id information to point to correct SGF.
     3. Run all cells. This step will usually take a long time.
@@ -47,3 +47,19 @@
         * an SGF with analysis added named `<filename>-analyzed.sgf`.
         * a JSON containing the analysis data named `<filename>.json`.
         * a JSON containing a cleaned version of the analysis data named `<filename>_clean.json`.
+2. Producing analysis for multiple games:
+    1. Open `game_analysis_mass.ipynb`.
+    2. Create the directory `./output/<player_id>/sgf_for_analysis/`; if it already exists, empty it.
+    3. Place SGFs for analysis in said directory.
+    4. Modify path and ID information in notebook.
+    3. Run all cells. This step will usually take a long time.
+    4. Confirm creation of output files within `./output/<player_id>/sgf_for_analysis/`:
+        * an SGF with analysis added named `<filename>-analyzed.sgf`.
+        * a JSON containing the analysis data named `<filename>.json`.
+        * a JSON containing a cleaned version of the analysis data named `<filename>_clean.json`.
+
+### Game analytics:
+
+1. Sharpness (`sharpness.ipynb`):
+    * Measures the sharpness of each move (whether many or only a few options are viable in a given position)
+    * Provides summary statistic for player performance in sharp board states
